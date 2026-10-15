@@ -1,0 +1,24 @@
+{
+  "built_at_utc": "2026-10-20T11:28:07.616658+00:00",
+  "reviewed_on": "2026-10-08",
+  "python": "3.12.15",
+  "source_families": 20,
+  "iso_entries": 249,
+  "coverage_counts": {
+    "Not researched": 206,
+    "Data extracted": 36,
+    "Public source documented": 4,
+    "Candidate only": 2,
+    "Reviewed, missing result": 1
+  },
+  "eurostat_nonmissing_cells": 27524,
+  "eurostat_updated": "2026-04-24T23:00:00+0200",
+  "pew_observations": 27,
+  "checks": "Percent ranges, dimension uniqueness, valid ISO codes, source references, complete roster",
+  "input_hashes": {
+    "data/raw/eurostat_ilc_scp27_2022.json": "985d8d2c7d29c0ff83a7d5eb25a923db7290ca7e2a0d5f93d01a7952b8b5c1c4",
+    "data/raw/world_boundaries.geojson": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f",
+    "data/raw/pew_formats.csv": "285acb0aa357fd03c4167854af4df06976a4a755837dbaff4a85c670de5555ae",
+    "data/source_register.json": "bcf3ee417cee781a863beeb989f2c3e3939055b198602764064d33db6e39cda6"
+  }
+}

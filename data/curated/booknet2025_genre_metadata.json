@@ -1,0 +1,80 @@
+{
+  "source_id": "booknet_ca",
+  "observation_year": 2025,
+  "publication_date": "2026-05-05",
+  "reviewed_on": "2026-10-12",
+  "review_classification": "newly_discovered_earlier_release",
+  "source_url": "https://booknetcanada.ca/wp-content/uploads/2026/06/CanadianLeisureandReading2025.pdf",
+  "pdf_sha256": "ed1557f2ad524fef98cc6c9c62db9105d44f0a6b5b002bbd36510a5e335e70fd",
+  "fieldwork": "January 2026",
+  "total_sample_n": 1278,
+  "reader_sample_n": 1005,
+  "weighted": false,
+  "population": "English-speaking Canadian adults age 18+ with internet access; opt-in incentivized consumer panel",
+  "questionnaire_url": "https://docs.google.com/document/d/e/2PACX-1vRuZbp9ePKJJQgxwZ98y-ff8GTbVe71-hZ-rulEsnuDdUKV0x8B4u_Dmsa6LktVGr2zhBgxCjnfhiZy/pub",
+  "row_count": 60,
+  "table_pages": {
+    "Book fiction genres": {
+      "printed_page": 35,
+      "pdf_index": 34
+    },
+    "Book non-fiction genres": {
+      "printed_page": 37,
+      "pdf_index": 36
+    }
+  },
+  "questions": {
+    "Book fiction genres": {
+      "Print": {
+        "number": 31,
+        "measure": "Fiction genres read in physical/print books"
+      },
+      "Ebook": {
+        "number": 43,
+        "measure": "Fiction genres read in ebooks"
+      },
+      "Audiobook": {
+        "number": 55,
+        "measure": "Fiction genres listened to in audiobooks"
+      }
+    },
+    "Book non-fiction genres": {
+      "Print": {
+        "number": 32,
+        "measure": "Non-fiction subjects read in physical/print books"
+      },
+      "Ebook": {
+        "number": 44,
+        "measure": "Non-fiction subjects read in ebooks"
+      },
+      "Audiobook": {
+        "number": 56,
+        "measure": "Non-fiction subjects listened to in audiobooks"
+      }
+    }
+  },
+  "selection_rule": "Up to three selections for every genre question; overlapping choices, not shares of a mutually exclusive whole",
+  "denominator": "Reported as fiction or nonfiction readers within each format. Exact respondent routing and eligible subgroup counts are not published. Do not use 1,005 as genre n.",
+  "genre_sample_size": null,
+  "recall_period": "Previous year (2025); inherited format-specific book-reading context",
+  "missing_cells": [
+    {
+      "format_label": "Audiobook",
+      "genre_scope": "Book fiction genres",
+      "genre": "Comics or Graphic Novels",
+      "printed_symbol": "-",
+      "interpretation": "Not offered by Q55; missing, never zero"
+    },
+    {
+      "format_label": "Audiobook",
+      "genre_scope": "Book non-fiction genres",
+      "genre": "Comics or Graphic Novels",
+      "printed_symbol": "blank",
+      "interpretation": "Not offered by Q56; missing, never zero"
+    }
+  ],
+  "original_labels_preserved": true,
+  "harmonized_worldwide_genre_taxonomy": false,
+  "comparison_restriction": "Separate-panel descriptive results; preserve year and genre_scope. No significance tests or CIs from exact subgroup n because it is unpublished. Do not average with Singapore mixed-material genres.",
+  "baseline_rule": "Append to genre history only; preserve all original 2024 Canada rows and 2024 default/selection explicitly."
+}

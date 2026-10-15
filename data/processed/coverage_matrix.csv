@@ -1,0 +1,250 @@
+country_iso3,country,audit_status,source_ids,book_participation,audiobook_separate,genre_detail,research_gap,note
+AFG,Afghanistan,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ALB,Albania,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+DZA,Algeria,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ASM,American Samoa,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+AND,Andorra,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+AGO,Angola,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+AIA,Anguilla,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ATA,Antarctica,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ATG,Antigua and Barbuda,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ARG,Argentina,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ARM,Armenia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ABW,Aruba,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+AUS,Australia,Public source documented,creative_au,creative_au: documented,creative_au: requires_report_review,creative_au: requires_report_review,,ISO 3166 country/territory roster; not a list of sovereign states
+AUT,Austria,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+AZE,Azerbaijan,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BHS,Bahamas,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BHR,Bahrain,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BGD,Bangladesh,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BRB,Barbados,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BLR,Belarus,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BEL,Belgium,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+BLZ,Belize,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BEN,Benin,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BMU,Bermuda,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BTN,Bhutan,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BOL,"Bolivia, Plurinational State of",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BES,"Bonaire, Sint Eustatius and Saba",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BIH,Bosnia and Herzegovina,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BWA,Botswana,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BVT,Bouvet Island,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BRA,Brazil,Public source documented,ipl_br,ipl_br: documented,ipl_br: unknown,ipl_br: documented,,ISO 3166 country/territory roster; not a list of sovereign states
+IOT,British Indian Ocean Territory,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BRN,Brunei Darussalam,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BGR,Bulgaria,Data extracted,eurostat;storytel_story_report_2026,eurostat: extracted; storytel_story_report_2026: not_extracted,eurostat: included_not_separate; storytel_story_report_2026: listener_genres_and_occasions_extracted,eurostat: not_in_dataset; storytel_story_report_2026: extracted_top_five,,ISO 3166 country/territory roster; not a list of sovereign states
+BFA,Burkina Faso,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BDI,Burundi,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+CPV,Cabo Verde,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+KHM,Cambodia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+CMR,Cameroon,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+CAN,Canada,Data extracted,booknet_ca,booknet_ca: extracted,booknet_ca: extracted,booknet_ca: extracted,,ISO 3166 country/territory roster; not a list of sovereign states
+CYM,Cayman Islands,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+CAF,Central African Republic,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TCD,Chad,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+CHL,Chile,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+CHN,China,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+CXR,Christmas Island,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+CCK,Cocos (Keeling) Islands,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+COL,Colombia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+COM,Comoros,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+COG,Congo,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+COD,"Congo, The Democratic Republic of the",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+COK,Cook Islands,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+CRI,Costa Rica,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+HRV,Croatia,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+CUB,Cuba,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+CUW,Curaçao,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+CYP,Cyprus,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+CZE,Czechia,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+CIV,Côte d'Ivoire,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+DNK,Denmark,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+DJI,Djibouti,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+DMA,Dominica,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+DOM,Dominican Republic,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ECU,Ecuador,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+EGY,Egypt,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SLV,El Salvador,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GNQ,Equatorial Guinea,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ERI,Eritrea,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+EST,Estonia,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+SWZ,Eswatini,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ETH,Ethiopia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+FLK,Falkland Islands (Malvinas),Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+FRO,Faroe Islands,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+FJI,Fiji,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+FIN,Finland,Data extracted,eurostat;storytel_story_report_2026,eurostat: extracted; storytel_story_report_2026: not_extracted,eurostat: included_not_separate; storytel_story_report_2026: listener_genres_and_occasions_extracted,eurostat: not_in_dataset; storytel_story_report_2026: extracted_top_five,,ISO 3166 country/territory roster; not a list of sovereign states
+FRA,France,Data extracted,eurostat;cnl_fr,eurostat: extracted; cnl_fr: documented,eurostat: included_not_separate; cnl_fr: documented,eurostat: not_in_dataset; cnl_fr: requires_report_review,,ISO 3166 country/territory roster; not a list of sovereign states
+GUF,French Guiana,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+PYF,French Polynesia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ATF,French Southern Territories,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GAB,Gabon,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GMB,Gambia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GEO,Georgia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+DEU,Germany,"Reviewed, missing result",eurostat,eurostat: missing_total_population_result,eurostat: included_not_separate,eurostat: not_in_dataset,Eurostat total-population result absent; retained as missing,ISO 3166 country/territory roster; not a list of sovereign states
+GHA,Ghana,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GIB,Gibraltar,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GRC,Greece,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+GRL,Greenland,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GRD,Grenada,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GLP,Guadeloupe,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GUM,Guam,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GTM,Guatemala,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GGY,Guernsey,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GIN,Guinea,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GNB,Guinea-Bissau,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GUY,Guyana,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+HTI,Haiti,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+HMD,Heard Island and McDonald Islands,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+VAT,Holy See (Vatican City State),Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+HND,Honduras,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+HKG,Hong Kong,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+HUN,Hungary,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+ISL,Iceland,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+IND,India,Candidate only,nbt_in,nbt_in: requires_table_review,nbt_in: unknown,nbt_in: unknown,,ISO 3166 country/territory roster; not a list of sovereign states
+IDN,Indonesia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+IRN,"Iran, Islamic Republic of",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+IRQ,Iraq,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+IRL,Ireland,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+IMN,Isle of Man,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ISR,Israel,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ITA,Italy,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+JAM,Jamaica,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+JPN,Japan,Candidate only,stat_jp,stat_jp: requires_table_review,stat_jp: unknown,stat_jp: unknown,,ISO 3166 country/territory roster; not a list of sovereign states
+JEY,Jersey,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+JOR,Jordan,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+KAZ,Kazakhstan,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+KEN,Kenya,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+KIR,Kiribati,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+PRK,"Korea, Democratic People's Republic of",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+KOR,"Korea, Republic of",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+KWT,Kuwait,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+KGZ,Kyrgyzstan,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+LAO,Lao People's Democratic Republic,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+LVA,Latvia,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+LBN,Lebanon,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+LSO,Lesotho,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+LBR,Liberia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+LBY,Libya,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+LIE,Liechtenstein,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+LTU,Lithuania,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+LUX,Luxembourg,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+MAC,Macao,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MDG,Madagascar,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MWI,Malawi,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MYS,Malaysia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MDV,Maldives,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MLI,Mali,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MLT,Malta,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+MHL,Marshall Islands,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MTQ,Martinique,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MRT,Mauritania,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MUS,Mauritius,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MYT,Mayotte,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MEX,Mexico,Public source documented,inegi_mx,inegi_mx: documented,inegi_mx: unknown,inegi_mx: unknown,,ISO 3166 country/territory roster; not a list of sovereign states
+FSM,"Micronesia, Federated States of",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MDA,"Moldova, Republic of",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MCO,Monaco,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MNG,Mongolia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MNE,Montenegro,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+MSR,Montserrat,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MAR,Morocco,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MOZ,Mozambique,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MMR,Myanmar,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+NAM,Namibia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+NRU,Nauru,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+NPL,Nepal,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+NLD,Netherlands,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+NCL,New Caledonia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+NZL,New Zealand,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+NIC,Nicaragua,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+NER,Niger,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+NGA,Nigeria,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+NIU,Niue,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+NFK,Norfolk Island,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MKD,North Macedonia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MNP,Northern Mariana Islands,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+NOR,Norway,Data extracted,eurostat;ssb_no;storytel_story_report_2026,eurostat: extracted; ssb_no: extracted; storytel_story_report_2026: not_extracted,eurostat: included_not_separate; ssb_no: extracted; storytel_story_report_2026: listener_genres_and_occasions_extracted,eurostat: not_in_dataset; ssb_no: unknown; storytel_story_report_2026: extracted_top_five,,ISO 3166 country/territory roster; not a list of sovereign states
+OMN,Oman,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+PAK,Pakistan,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+PLW,Palau,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+PSE,"Palestine, State of",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+PAN,Panama,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+PNG,Papua New Guinea,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+PRY,Paraguay,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+PER,Peru,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+PHL,Philippines,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+PCN,Pitcairn,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+POL,Poland,Data extracted,eurostat;bn_pl;storytel_story_report_2026,eurostat: extracted; bn_pl: documented; storytel_story_report_2026: not_extracted,eurostat: included_not_separate; bn_pl: unknown; storytel_story_report_2026: listener_genres_and_occasions_extracted,eurostat: not_in_dataset; bn_pl: requires_report_review; storytel_story_report_2026: extracted_top_five,,ISO 3166 country/territory roster; not a list of sovereign states
+PRT,Portugal,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+PRI,Puerto Rico,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+QAT,Qatar,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ROU,Romania,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+RUS,Russian Federation,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+RWA,Rwanda,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+REU,Réunion,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+BLM,Saint Barthélemy,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SHN,"Saint Helena, Ascension and Tristan da Cunha",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+KNA,Saint Kitts and Nevis,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+LCA,Saint Lucia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+MAF,Saint Martin (French part),Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SPM,Saint Pierre and Miquelon,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+VCT,Saint Vincent and the Grenadines,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+WSM,Samoa,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SMR,San Marino,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+STP,Sao Tome and Principe,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SAU,Saudi Arabia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SEN,Senegal,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SRB,Serbia,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+SYC,Seychelles,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SLE,Sierra Leone,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SGP,Singapore,Data extracted,nlb_sg,nlb_sg: extracted,nlb_sg: extracted,nlb_sg: extracted,,ISO 3166 country/territory roster; not a list of sovereign states
+SXM,Sint Maarten (Dutch part),Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SVK,Slovakia,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+SVN,Slovenia,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+SLB,Solomon Islands,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SOM,Somalia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ZAF,South Africa,Public source documented,nrb_za,nrb_za: documented,nrb_za: unknown,nrb_za: requires_report_review,,ISO 3166 country/territory roster; not a list of sovereign states
+SGS,South Georgia and the South Sandwich Islands,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SSD,South Sudan,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ESP,Spain,Data extracted,eurostat;fgee_es,eurostat: extracted; fgee_es: documented,eurostat: included_not_separate; fgee_es: documented,eurostat: not_in_dataset; fgee_es: unknown,,ISO 3166 country/territory roster; not a list of sovereign states
+LKA,Sri Lanka,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SDN,Sudan,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SUR,Suriname,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SJM,Svalbard and Jan Mayen,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+SWE,Sweden,Data extracted,eurostat;nordicom_se;storytel_story_report_2026,eurostat: extracted; nordicom_se: extracted; storytel_story_report_2026: not_extracted,eurostat: included_not_separate; nordicom_se: extracted; storytel_story_report_2026: listener_genres_and_occasions_extracted,eurostat: not_in_dataset; nordicom_se: unknown; storytel_story_report_2026: extracted_top_five,,ISO 3166 country/territory roster; not a list of sovereign states
+CHE,Switzerland,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+SYR,Syrian Arab Republic,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TWN,"Taiwan, Province of China",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TJK,Tajikistan,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TZA,"Tanzania, United Republic of",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+THA,Thailand,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TLS,Timor-Leste,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TGO,Togo,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TKL,Tokelau,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TON,Tonga,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TTO,Trinidad and Tobago,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TUN,Tunisia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TKM,Turkmenistan,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TCA,Turks and Caicos Islands,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TUV,Tuvalu,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+TUR,Türkiye,Data extracted,eurostat,eurostat: extracted,eurostat: included_not_separate,eurostat: not_in_dataset,,ISO 3166 country/territory roster; not a list of sovereign states
+UGA,Uganda,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+UKR,Ukraine,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ARE,United Arab Emirates,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+GBR,United Kingdom,Data extracted,uk_pa_industry,uk_pa_industry: not_measured,uk_pa_industry: revenue_only,uk_pa_industry: not_extracted,,ISO 3166 country/territory roster; not a list of sovereign states
+USA,United States,Data extracted,pew_us;apa_us_sales;aap_us_annual,pew_us: extracted; apa_us_sales: not_measured; aap_us_annual: not_measured,pew_us: extracted; apa_us_sales: revenue_only; aap_us_annual: not_extracted,pew_us: not_in_reviewed_source; apa_us_sales: not_extracted; aap_us_annual: not_extracted,,ISO 3166 country/territory roster; not a list of sovereign states
+UMI,United States Minor Outlying Islands,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+URY,Uruguay,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+UZB,Uzbekistan,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+VUT,Vanuatu,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+VEN,"Venezuela, Bolivarian Republic of",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+VNM,Viet Nam,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+VGB,"Virgin Islands, British",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+VIR,"Virgin Islands, U.S.",Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+WLF,Wallis and Futuna,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ESH,Western Sahara,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+YEM,Yemen,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ZMB,Zambia,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ZWE,Zimbabwe,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states
+ALA,Åland Islands,Not researched,,unknown,unknown,unknown,No source reviewed in this audit,ISO 3166 country/territory roster; not a list of sovereign states

@@ -1,0 +1,72 @@
+{
+  "source_id": "booknet_ca",
+  "observation_year": 2025,
+  "publication_date": "2026-05-05",
+  "reviewed_on": "2026-10-12",
+  "review_classification": "newly_discovered_earlier_release",
+  "source_url": "https://booknetcanada.ca/wp-content/uploads/2026/06/CanadianLeisureandReading2025.pdf",
+  "source_page": "https://booknetcanada.ca/research/canadian-leisure-reading-study-2025/",
+  "release_evidence_url": "https://booknetcanada.ca/press-room/canadians-are-reading-canadian-authors-in-2025/",
+  "release_locator": "Opening press-release dateline, Toronto, ON, May 5, 2026; official research archive also dates May 5, 2026",
+  "pdf_sha256": "ed1557f2ad524fef98cc6c9c62db9105d44f0a6b5b002bbd36510a5e335e70fd",
+  "fieldwork": "January 2026",
+  "total_sample_n": 1278,
+  "reader_sample_n": 1005,
+  "screened_out_n": 273,
+  "population": "English-speaking Canadian adults age 18+ with internet access; opt-in incentivized consumer panel",
+  "sample_design": "Recruit until 1,005 readers; selective sampling on age, gender and geographical region. Publisher representativeness claim does not make this a probability sample.",
+  "weighted": false,
+  "recall_period": "Last year / past 12 months; annual observation 2025",
+  "reader_definition": "Report p.4 defines readers as people reading/listening to a book or part of a book at least once in the past year. The May 5 release blog describes eligibility as at least a few times per year; exact public questionnaire routing is not published. Retain this wording qualification.",
+  "questions": {
+    "Print": {
+      "number": 23,
+      "summary": "Frequency of physical/print book reading in last year"
+    },
+    "Ebook": {
+      "number": 33,
+      "summary": "Frequency of ebook reading in last year"
+    },
+    "Audiobook": {
+      "number": 45,
+      "summary": "Frequency of audiobook listening,CD/tape/digital,in last year"
+    }
+  },
+  "questionnaire_url": "https://docs.google.com/document/d/e/2PACX-1vRuZbp9ePKJJQgxwZ98y-ff8GTbVe71-hZ-rulEsnuDdUKV0x8B4u_Dmsa6LktVGr2zhBgxCjnfhiZy/pub",
+  "format_locator": "Printed p.25, PDF index 24; reach prose 93/71/57%; Never row 7/29/43%",
+  "visually_verified_pages": [
+    4,
+    25,
+    35,
+    37
+  ],
+  "format_measure": "Readers reporting any reading/listening in that format; not format preference. Preferences 58/18/16% are a separate measure.",
+  "inference_restrictions": [
+    "Do not treat as all-Canadian-adult reach",
+    "Do not construct survey-design CIs from the blanket ±3% publisher claim",
+    "Do not overwrite 2024 sample size or observations",
+    "Year-to-year differences are descriptive separate-panel estimates, not proven significant trends"
+  ],
+  "genres": {
+    "fiction_page": 35,
+    "nonfiction_page": 37,
+    "questions": {
+      "fiction": [
+        31,
+        43,
+        55
+      ],
+      "nonfiction": [
+        32,
+        44,
+        56
+      ]
+    },
+    "response_limit": "Select up to three",
+    "exact_subgroup_n": "not_published",
+    "routing": "not_explicit_in_public_questionnaire",
+    "audio_comics_cells": "Fiction dash and nonfiction blank; unavailable and excluded from audio questionnaire choices; never zero"
+  },
+  "monitor_url": "https://booknetcanada.ca/research-archive/",
+  "reader_definition_evidence_url": "https://booknetcanada.ca/blog/2026/05/05/canadians-and-their-leisure-time-in-2025-leisure-reading-study/"
+}
