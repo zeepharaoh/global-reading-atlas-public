@@ -1,0 +1,14 @@
+.venv/
+.idea/
+__pycache__/
+work/
+.DS_Store
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.data-app-offline/
+node_modules/
+*.egg-info/
+.env
+.env.*
+!.env.example

@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_scp27?lang=EN&time=2022",
+    "retrieved_at_utc": "2026-10-07T23:34:13.168319+00:00",
+    "file": "data/raw/eurostat_ilc_scp27_2022.json",
+    "sha256": "985d8d2c7d29c0ff83a7d5eb25a923db7290ca7e2a0d5f93d01a7952b8b5c1c4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+    "retrieved_at_utc": "2026-10-07T23:34:13.459808+00:00",
+    "file": "data/raw/world_boundaries.geojson",
+    "sha256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f"
+  }
+]

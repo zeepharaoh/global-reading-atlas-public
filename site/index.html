@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore public evidence on paper books, ebooks, audiobooks and the book industry, with interactive comparisons and reproducible Python analyses.">
+  <meta name="color-scheme" content="light">
+  <title>Global Reading Atlas · Books, listening and public evidence</title>
+  <style>
+    :root { --ink:#142f3f; --muted:#526574; --paper:#f5f5f0; --white:#fff; --line:#d9e1df; --blue:#1b5e7c; --gold:#efbb70; --soft:#e9efed; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; background:var(--paper); color:var(--ink); font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    a { color:var(--blue); text-underline-offset:4px; }
+    a:hover { text-decoration-thickness:2px; }
+    a:focus-visible { outline:3px solid #b56508; outline-offset:5px; border-radius:2px; }
+    .skip { position:absolute; left:1rem; top:-100px; z-index:5; background:white; padding:.6rem 1rem; }
+    .skip:focus { top:1rem; }
+    .wrap { width:min(1160px,calc(100% - 3rem)); margin:auto; }
+    header { border-bottom:1px solid var(--line); }
+    .nav { min-height:88px; display:flex; gap:2rem; align-items:center; justify-content:space-between; }
+    .brand { display:flex; gap:.8rem; align-items:center; color:var(--ink); font-size:1.1rem; font-weight:750; text-decoration:none; letter-spacing:-.025em; }
+    .brand svg { width:34px; height:34px; flex:none; }
+    nav { display:flex; gap:1.6rem; flex-wrap:wrap; font-size:.88rem; }
+    nav a { color:var(--ink); text-decoration:none; }
+    .hero { padding:5.5rem 0 4.5rem; display:grid; grid-template-columns:1.5fr 1fr; align-items:center; gap:5rem; }
+    .eyebrow { margin:0 0 1.15rem; color:var(--blue); font-size:.72rem; font-weight:750; letter-spacing:.16em; text-transform:uppercase; }
+    h1,h2,h3,p { margin-top:0; }
+    h1 { font-size:clamp(2.6rem,5vw,4.3rem); line-height:1.07; letter-spacing:-.055em; font-weight:740; margin-bottom:1.5rem; max-width:680px; }
+    .intro { color:var(--muted); font-size:1.13rem; line-height:1.7; max-width:620px; margin-bottom:1.8rem; }
+    .actions { display:flex; gap:.8rem; flex-wrap:wrap; align-items:center; }
+    .button { display:inline-flex; justify-content:center; align-items:center; padding:.8rem 1.15rem; border-radius:6px; text-decoration:none; font-size:.9rem; font-weight:700; border:1px solid var(--ink); color:var(--ink); }
+    .button.primary { background:var(--ink); color:white; }
+    .button:hover { box-shadow:0 2px 0 var(--ink); }
+    .note { color:var(--muted); font-size:.8rem; margin:1rem 0 0; }
+    .start { padding:2rem; background:var(--ink); color:white; border-radius:12px; box-shadow:16px 16px 0 #e3e9e5; }
+    .start .eyebrow { color:var(--gold); margin-bottom:1.5rem; }
+    .start ol { margin:0; padding:0; list-style:none; counter-reset:questions; }
+    .start li { counter-increment:questions; display:grid; grid-template-columns:1.5rem 1fr; gap:.85rem; padding:1.1rem 0; border-top:1px solid #ffffff30; }
+    .start li::before { content:counter(questions,decimal-leading-zero); color:var(--gold); font-size:.7rem; font-weight:650; padding-top:.25rem; }
+    .start a { color:white; text-decoration:none; font-size:1.04rem; font-weight:600; line-height:1.4; }
+    .start span { display:block; font-size:.79rem; font-weight:400; color:#ccd8df; margin-top:.4rem; }
+    .section-heading { display:flex; gap:2rem; justify-content:space-between; align-items:flex-end; margin-bottom:1.5rem; }
+    h2 { font-size:clamp(1.65rem,3vw,2.2rem); line-height:1.2; letter-spacing:-.035em; margin-bottom:0; }
+    .section-heading p { color:var(--muted); font-size:.93rem; margin:0; max-width:370px; }
+    .cards { display:grid; grid-template-columns:repeat(3,1fr); gap:1rem; }
+    .card { background:white; border:1px solid var(--line); border-radius:10px; padding:1.8rem; display:flex; flex-direction:column; }
+    .tag { color:var(--blue); font-size:.7rem; font-weight:750; text-transform:uppercase; letter-spacing:.12em; margin-bottom:1.25rem; }
+    .card h3 { font-size:1.35rem; line-height:1.3; letter-spacing:-.025em; margin-bottom:.8rem; }
+    .card p { color:var(--muted); font-size:.92rem; margin-bottom:1.5rem; }
+    .card .links { margin-top:auto; display:flex; gap:.5rem; flex-direction:column; font-size:.86rem; }
+    .links a:first-child { font-weight:700; }
+    .coverage { display:grid; grid-template-columns:1.25fr 1fr; gap:3rem; align-items:center; margin:4.8rem 0; padding:2rem; border:1px solid var(--line); border-radius:12px; background:#fff; }
+    .coverage figure { margin:0; }
+    .coverage img { width:100%; height:auto; display:block; }
+    .coverage figcaption { color:var(--muted); font-size:.74rem; text-align:center; margin-top:.7rem; }
+    .coverage h2 { margin-bottom:1.2rem; }
+    .coverage p { font-size:.93rem; color:var(--muted); }
+    .text-link { font-size:.9rem; font-weight:700; }
+    .methods { display:grid; grid-template-columns:1fr 1.5fr; gap:4rem; padding-bottom:4.8rem; }
+    .methods h2 { max-width:280px; }
+    .methods ul { margin:0; padding-left:1.2rem; color:var(--muted); font-size:.94rem; }
+    .methods li { padding:0 0 .8rem .35rem; }
+    .methods strong { color:var(--ink); font-weight:650; }
+    .code { display:flex; gap:2rem; justify-content:space-between; align-items:center; background:var(--soft); border-radius:10px; padding:2rem; margin-bottom:4rem; }
+    .code h2 { font-size:1.6rem; margin-bottom:.65rem; }
+    .code p { font-size:.92rem; margin:0; color:var(--muted); max-width:690px; }
+    .code .button { white-space:nowrap; }
+    footer { border-top:1px solid var(--line); padding:1.8rem 0; color:var(--muted); font-size:.76rem; }
+    .footer-content { display:flex; justify-content:space-between; gap:1.5rem; }
+    footer p { margin:0; }
+    @media (max-width:850px) {
+      .hero { gap:2.5rem; grid-template-columns:1.2fr 1fr; padding-top:3.5rem; }
+      .cards { grid-template-columns:1fr; }
+      .card { padding:1.5rem; }
+      .coverage { gap:2rem; padding:1.5rem; }
+      .methods { gap:2rem; }
+    }
+    @media (max-width:640px) {
+      .wrap { width:calc(100% - 2rem); }
+      .nav { gap:1.2rem; align-items:flex-start; padding:1.3rem 0; flex-direction:column; }
+      nav { gap:1.2rem; font-size:.8rem; }
+      .hero { display:block; padding:3rem 0; }
+      .start { margin-top:2.5rem; box-shadow:8px 8px 0 #e3e9e5; padding:1.5rem; }
+      .section-heading,.code { display:block; }
+      .section-heading p { margin-top:1rem; }
+      .coverage { grid-template-columns:1fr; margin:3rem 0; }
+      .coverage figure { order:2; }
+      .methods { grid-template-columns:1fr; padding-bottom:2.5rem; }
+      .methods h2 { max-width:none; }
+      .code { margin-bottom:2.5rem; padding:1.5rem; }
+      .code .button { margin-top:1.3rem; }
+      .footer-content { flex-direction:column; gap:.6rem; }
+    }
+    @media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="./" aria-label="Global Reading Atlas home">
+        <svg viewBox="0 0 36 36" fill="none" aria-hidden="true"><rect width="36" height="36" rx="9" fill="#142f3f"/><path d="M8 10.5c3.5-.7 6.7.2 10 2.5v15c-3.3-2.3-6.5-3.2-10-2.5v-15Zm20 0c-3.5-.7-6.7.2-10 2.5v15c3.3-2.3 6.5-3.2 10-2.5v-15Z" stroke="#efbb70" stroke-width="1.6" stroke-linejoin="round"/></svg>
+        Global Reading Atlas
+      </a>
+      <nav aria-label="Main navigation">
+        <a href="dashboard/">Dashboard</a>
+        <a href="#analyses">Analyses</a>
+        <a href="#sources">Sources &amp; methods</a>
+        <a href="https://github.com/zeepharaoh/global-reading-atlas-public">GitHub ↗</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="wrap">
+    <section class="hero" aria-labelledby="hero-title">
+      <div>
+        <p class="eyebrow">Public evidence · Reproducible analysis</p>
+        <h1 id="hero-title">How the world reads.<br>How the world listens.</h1>
+        <p class="intro">Explore paper books, ebooks and audiobooks through public surveys, industry statistics and company releases. Follow every comparison back to its source.</p>
+        <div class="actions">
+          <a class="button primary" href="dashboard/?tab=audiobooks">Explore audiobooks →</a>
+          <a class="button" href="dashboard/">Open full dashboard</a>
+        </div>
+        <p class="note">Open in your browser. No account or installation needed.</p>
+      </div>
+      <aside class="start" aria-label="Where to begin">
+        <p class="eyebrow">Start with your question</p>
+        <ol>
+          <li><a href="dashboard/?tab=audiobooks">Where is listening taking hold?<span>Inspect observed listening rates and the survey population behind them.</span></a></li>
+          <li><a href="dashboard/?tab=genres">What do readers and listeners choose?<span>Explore format and genre evidence within each source’s scope.</span></a></li>
+          <li><a href="dashboard/?tab=industry">How does the industry compare?<span>Review publisher statistics, platforms and company evidence.</span></a></li>
+        </ol>
+      </aside>
+    </section>
+
+    <section id="analyses" aria-labelledby="analyses-title">
+      <div class="section-heading">
+        <h2 id="analyses-title">Explore. Read. Reproduce.</h2>
+        <p>Use the dashboard for questions, the reports for context and the notebooks to check the analysis.</p>
+      </div>
+      <div class="cards">
+        <article class="card">
+          <span class="tag">Interactive dashboard</span>
+          <h3>The book industry, in context</h3>
+          <p>Browse listening, reading, formats, genres and company coverage. Inspect definitions, missing evidence and original source links as you go.</p>
+          <div class="links"><a href="dashboard/">Explore all evidence →</a><a href="dashboard/?tab=coverage">Check worldwide coverage</a></div>
+        </article>
+        <article class="card">
+          <span class="tag">Audiobook analysis</span>
+          <h3>Listening and market questions</h3>
+          <p>Examine adoption, genres and observed history. Storytel case studies keep new-country entry screening and existing-market growth research separate.</p>
+          <div class="links"><a href="reports/audiobooks.html">Read the audiobook report →</a><a href="https://github.com/zeepharaoh/global-reading-atlas-public/blob/main/notebooks/02_audiobook_market_check.ipynb">View the Python notebook</a><a href="notebooks/02_audiobook_market_check.ipynb" download>Download .ipynb</a></div>
+        </article>
+        <article class="card">
+          <span class="tag">Reading analysis</span>
+          <h3>Participation, formats and genres</h3>
+          <p>Review reading participation, demographic patterns and national format profiles, with calculations and measurement limits kept visible.</p>
+          <div class="links"><a href="reports/reading.html">Read the reading report →</a><a href="https://github.com/zeepharaoh/global-reading-atlas-public/blob/main/notebooks/01_reading_and_listening_analysis.ipynb">View the Python notebook</a><a href="notebooks/01_reading_and_listening_analysis.ipynb" download>Download .ipynb</a></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="coverage" aria-labelledby="coverage-title">
+      <figure>
+        <img src="assets/coverage_map.png" alt="Worldwide map of evidence coverage. The dashboard Coverage view provides the underlying country records." width="2240" height="1248" loading="lazy">
+        <figcaption>Evidence readiness, rather than a global ranking of reading or listening.</figcaption>
+      </figure>
+      <div>
+        <p class="eyebrow">Coverage &amp; research gaps</p>
+        <h2 id="coverage-title">A worldwide view.<br>Visible limits.</h2>
+        <p>Published evidence is uneven. A country on the roster does not mean that comparable reading, audiobook or genre data is available.</p>
+        <p>Explore the country records to see which sources are reviewed and where more research is needed.</p>
+        <a class="text-link" href="dashboard/?tab=coverage">Inspect the coverage register →</a>
+      </div>
+    </section>
+
+    <section id="sources" class="methods" aria-labelledby="sources-title">
+      <div>
+        <p class="eyebrow">Read the definitions first</p>
+        <h2 id="sources-title">Good questions need comparable evidence.</h2>
+      </div>
+      <div>
+        <ul>
+          <li><strong>Keep the population and period visible.</strong> Annual participation, daily reach and preferences among existing listeners answer different questions.</li>
+          <li><strong>Keep formats and industry measures separate.</strong> People can use several formats. Publisher revenue, subscriptions and audience percentages are different measures.</li>
+          <li><strong>Preserve gaps and survey changes.</strong> Unpublished years stay missing. Different survey bases do not create a valid country ranking.</li>
+          <li><strong>Check the source.</strong> Observation years, report dates, exact table or page locators and original definitions stay attached to the evidence.</li>
+        </ul>
+        <a class="text-link" href="https://github.com/zeepharaoh/global-reading-atlas-public/blob/main/data/source_register.json">View the public source register →</a>
+        <span aria-hidden="true"> · </span><a href="sources/register.json" download>Download JSON</a>
+      </div>
+    </section>
+
+    <section class="code" aria-labelledby="code-title">
+      <div>
+        <h2 id="code-title">Want to check or extend the work?</h2>
+        <p>The repository includes the reviewed data and two real Python notebooks. Use JupyterLab, VS Code or your preferred Python editor to check and extend the analysis. The README explains the setup.</p>
+      </div>
+      <a class="button" href="https://github.com/zeepharaoh/global-reading-atlas-public#readme">Open the project on GitHub ↗</a>
+    </section>
+  </main>
+  <footer>
+    <div class="wrap footer-content">
+      <p>Global Reading Atlas · Public book-industry evidence</p>
+      <p>Original sources retain their rights. <a href="https://github.com/zeepharaoh/global-reading-atlas-public#source-rights">Attribution &amp; reuse</a> · <a href="THIRD_PARTY_NOTICES.txt">Dependency notices</a></p>
+    </div>
+  </footer>
+</body>
+</html>

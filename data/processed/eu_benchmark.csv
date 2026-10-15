@@ -1,0 +1,2 @@
+country_iso3,country,geo,scope,year,sex,sex_label,age,age_label,isced11,education_label,participation,nonreader_pct,status_flag,reliability,source_id
+,European Union - 27 countries (from 2020),EU27_2020,Other surveyed country,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,52.8,47.2,e,Estimated,eurostat

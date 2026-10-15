@@ -1,0 +1,35 @@
+{
+  "reviewed_on": "2026-10-08",
+  "observation_year_range": [2022, 2025],
+  "observation_year_gaps": [],
+  "latest_full_year": 2025,
+  "revenue_is_audience": false,
+  "inflation_adjusted": false,
+  "currency_converted": false,
+  "computed_growth_allowed": false,
+  "cross_family_audio_share_allowed": false,
+  "latest_vintage_history_gaps": {
+    "aap_us_annual": "Exact latest 2026-vintage 2022 and 2023 estimates are not in the accessed public release. Full paid reports were not accessed.",
+    "uk_pa_industry": "No matched latest-vintage 2022–2024 history was extracted. 2024 original audio £268M cannot be combined with 2025 £255M to infer a decline."
+  },
+  "explicit_revision_evidence": [
+    {
+      "source_id": "aap_us_annual",
+      "observation_year": 2023,
+      "original_value_usd_million": 29900,
+      "later_published_value_usd_million": 31300,
+      "original_release_date": "2024-08-22",
+      "later_release_date": "2025-08-26",
+      "later_source_url": "https://publishers.org/news/aap-statshot-annual-report-publishing-revenues-totaled-32-5-billion-for-calendar-year-2024/"
+    },
+    {
+      "source_id": "uk_pa_industry",
+      "original_2024_audio_gbp_million": 268,
+      "published_2025_audio_gbp_million": 255,
+      "reported_2025_growth_percent": 10,
+      "interpretation": "Different release vintages. Cannot infer 2024 revised revenue by reversing a rounded growth rate."
+    }
+  ],
+  "display_guidance": "Use separate plots/facets by series and currency. AAP and UK public amounts should be dated point estimates; continuous trend lines, CAGR, ranking markets and APA/AAP shares would imply comparability not supported here. Rounded publisher-reported growth may be quoted with its release but should not be recomputed from rounded different-vintage levels. Retain table downloads with source URLs and publication dates.",
+  "visual_validation": "UK 2025 one-page PDF Consumer panel: audio books £255 million, print £2.1 billion, total consumer £2.6 billion. The £254 million figure belongs to academic print journals."
+}

@@ -1,0 +1,56 @@
+name: Validate cached evidence and notebook
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: evidence-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  evidence:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: dashboard/package-lock.json
+      - run: npm ci --no-audit --no-fund
+        working-directory: dashboard
+      - run: python -m pip install '.[analysis,dev]'
+      - run: python main.py prepare
+      - run: python -m ruff check main.py src tests scripts
+      - run: python -m pytest -q
+      - run: python notebooks/build_notebook.py --project-root . --output-root .
+      - run: python notebooks/build_audiobook_notebook.py --project-root . --output-root .
+      - name: Build the public dashboard from source
+        run: npm run build
+        working-directory: dashboard
+      - name: Package the browser edition
+        run: python scripts/build_site.py --output work/site
+      - name: Upload GitHub Pages artifact
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && !github.event.repository.private
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: work/site
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && !github.event.repository.private
+    needs: evidence
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy the browser edition
+        id: deployment
+        uses: actions/deploy-pages@v4
