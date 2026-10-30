@@ -1,0 +1,253 @@
+{
+  "reviewed_on": "2026-10-08",
+  "row_count": 23,
+  "scope": "Initial, non-exhaustive inventory of major company groups, publishers, retailers, subscription services and library platforms relevant to books.",
+  "grain": "One named company group or consumer/service brand per row; rows are not necessarily independent legal companies.",
+  "quantity_status": "No subscriber counts, readers, loans, sales, revenues or market shares were extracted into this register.",
+  "interpretation": [
+    "Public reporting documented identifies an official corporate/financial reporting source; it does not assert availability of comparable book-format metrics.",
+    "Public service information documented identifies primary service/product evidence; it does not assert an accessible historical quantitative series.",
+    "Formats describe documented book businesses. They do not imply every format is offered in every country.",
+    "Geographic scope is a qualitative official-source description. It is not a verified complete country-by-company launch matrix.",
+    "Do not aggregate parent and child rows, publisher and retailer sales, library loans, or different subscription definitions.",
+    "Blank parent_company means no separate controlling parent was entered, either for a top-level group or because a controlling parent was not verified. It does not imply independence.",
+    "Current ownership review is anchored to dated official ownership announcements and current service/company descriptions; it is not a legal corporate register."
+  ],
+  "source_references": {
+    "amazon_books": [
+      "https://kdp.amazon.com/en_US/publish",
+      "https://kdp.amazon.com/en_US/help/topic/G200650270"
+    ],
+    "audible": [
+      "https://help.audible.com/s/article/buy-an-audiobook?language=en_US",
+      "https://help.audible.com/s/article/learn-about-credits?language=en_US",
+      "https://www.audible.com/about/newsroom/audible-reveals-nielseniq-data-how-were-fueling-a-global-listening-surge"
+    ],
+    "spotify": [
+      "https://newsroom.spotify.com/2026-10-07/audiobooks-global-expansion/",
+      "https://newsroom.spotify.com/2026-04-15/audiobook-charts-recaps-page-match-bookshop-update/",
+      "https://support.spotify.com/us/authors/article/audiobooks-availability/"
+    ],
+    "apple_books": [
+      "https://support.apple.com/en-us/118205"
+    ],
+    "google_play_books": [
+      "https://support.google.com/books/partner/answer/3157463?hl=en"
+    ],
+    "rakuten_kobo": [
+      "https://global.rakuten.com/corp/investors/financial/",
+      "https://help.kobo.com/hc/en-us/articles/360018108973-Listen-to-audiobooks-on-iOS"
+    ],
+    "everand": [
+      "https://support.scribd.com/hc/en-us/articles/38205474518164-Everand-Fable-What-You-Need-to-Know"
+    ],
+    "bookbeat": [
+      "https://www.bookbeat.com/market",
+      "https://bonnierbooks.com/wp-content/uploads/2025/06/Bonnier-Books_AR24_ENG.pdf"
+    ],
+    "nextory": [
+      "https://nextory.com/fr/about",
+      "https://bonnierbooks.com/press/bonnier-books-acquires-nextory/",
+      "https://press.nextory.com/pressreleases/bonnier-books-foervaervar-nextory-3463821",
+      "https://www.konkurrensverket.se/diarium/sok-i-Konkurrensverkets-diarium/arendedata/?caseNumber=697%2F2026",
+      "https://www.konkurrensverket.se/diarium/sok-i-Konkurrensverkets-diarium/arendedata/file?pdf=26-0697s.pdf"
+    ],
+    "storytel_group": [
+      "https://www.storytelgroup.com/en/business-areas/publishing/",
+      "https://storage.mfn.se/f7b8528c-f140-42a4-a700-8854b21d2c4b/interim-report-january-june-2026-storytel-ab-publ.pdf"
+    ],
+    "audiobooks_com": [
+      "https://www.storytelgroup.com/en/business-areas/streaming/"
+    ],
+    "mofibo": [
+      "https://www.storytelgroup.com/en/business-areas/streaming/"
+    ],
+    "overdrive_libby": [
+      "https://company.overdrive.com/2020/06/09/kkr-completes-acquisition-of-overdrive/"
+    ],
+    "hoopla": [
+      "https://library.hoopladigital.com/about/",
+      "https://www.hoopladigital.com/privacy"
+    ],
+    "libro_fm": [],
+    "ximalaya": [
+      "https://www.ximalaya.com/category/a3_b4362/"
+    ],
+    "penguin_random_house": [
+      "https://www.penguinrandomhouse.com/about-us/"
+    ],
+    "harpercollins": [],
+    "hachette_livre": [
+      "https://www.hachette.com/en/hachette-livre-group-overview/",
+      "https://www.hachette.com/nos-dates-cles/",
+      "https://www.lagardere.com/en/press-release/third-quarter-2026-revenue/",
+      "https://www.lagardere.com/wp-content/uploads/2026/10/261015_lag_pr_q32026_revenue_en.pdf"
+    ],
+    "macmillan": [
+      "https://us.macmillan.com/publishers/macmillan-audio",
+      "https://us.macmillan.com/press"
+    ],
+    "simon_schuster": [
+      "https://media.kkr.com/news-details?news_id=daad91c3-0695-4bf7-b70b-d7698dea8e4c",
+      "https://www.simonandschuster.com/p/audio"
+    ],
+    "scholastic": [
+      "https://investor.scholastic.com/sec-filings/sec-filing/10-k/0000866729-26-000018",
+      "https://www.scholastic.com/aboutscholastic/our-businesses/",
+      "https://investor.scholastic.com/static-files/79cb81e9-a5b8-41de-8c79-554c1b0bcaab"
+    ],
+    "jentas_books": [
+      "https://bonnierbooks.com/press/bonnier-books-denmark-acquires-jentas-books/"
+    ]
+  },
+  "material_updates": [
+    {
+      "company_id": "spotify",
+      "date": "2026-10-07",
+      "fact": "Announced audiobook expansion from 22 markets to more than 180 by end of 2026. Treat future rollout as planned until country availability is verified.",
+      "url": "https://newsroom.spotify.com/2026-10-07/audiobooks-global-expansion/"
+    },
+    {
+      "company_id": "spotify",
+      "date": "2026-04-15",
+      "fact": "Print book purchasing through Bookshop.org introduced in US and UK; partner commerce rather than a standalone Spotify print publishing business.",
+      "url": "https://newsroom.spotify.com/2026-04-15/audiobook-charts-recaps-page-match-bookshop-update/"
+    },
+    {
+      "company_id": "ximalaya",
+      "date": "2026-08-11",
+      "fact": "TME quarterly results confirm Ximalaya acquisition completed 18 May 2026 and results included from acquisition date. Long-form audio is broader than audiobooks.",
+      "url": "https://ir.tencentmusic.com/2026-08-11-Tencent-Music-Entertainment-Group-Announces-Second-Quarter-2026-Unaudited-Financial-Results"
+    },
+    {
+      "company_id": "audible",
+      "date": "2026-10-08",
+      "category": "Planned feature and localization",
+      "fact": "Read & Listen announced as coming soon in seven marketplaces; English/German initially and local languages planned in 2027. Additional localized listener experiences planned for 2027. No launch dates confirmed.",
+      "read_and_listen_planned_marketplaces": [
+        "Canada",
+        "France",
+        "Spain",
+        "Italy",
+        "Brazil",
+        "Japan",
+        "India"
+      ],
+      "localized_experience_planned_2027_countries": [
+        "Indonesia",
+        "South Korea",
+        "Denmark",
+        "Norway",
+        "Finland"
+      ],
+      "url": "https://www.audible.com/about/newsroom/audible-reveals-nielseniq-data-how-were-fueling-a-global-listening-surge",
+      "evidence_locator": "Paragraphs beginning 'Ghiazza announced at the fair' and 'The NielsenIQ research underscores' (web-extracted lines 30-32)",
+      "status": "Announced; not live-country evidence",
+      "reviewed_on": "2026-10-12"
+    },
+    {
+      "company_id": "nextory",
+      "date": "2026-09-01",
+      "category": "Prior baseline omission corrected",
+      "fact": "Bonnier Books agreed to acquire all Nextory shares, conditional on Swedish Competition Authority approval. Formal completion not verified. This announcement predates the refresh window.",
+      "url": "https://bonnierbooks.com/press/bonnier-books-acquires-nextory/",
+      "evidence_locator": "Paragraph beginning 'Bonnier Books is acquiring all shares in Nextory' (web-extracted line 51)",
+      "status": "Pending acquisition announcement; do not assign completed parent ownership",
+      "reviewed_on": "2026-10-12"
+    },
+    {
+      "company_id": "jentas_books",
+      "related_company": "Bonnier Books Danmark (Bonnier Books / Bonnier Group)",
+      "date": "2026-10-09",
+      "category": "New publisher inventory entry; announced acquisition",
+      "fact": "Bonnier Books Danmark announced an agreement to acquire Jentas Books, a commercial-fiction publisher with strength in audiobooks and ebooks. Purchase price undisclosed; completion date not established in this review. This does not add a BookBeat launch or subscriber metric.",
+      "url": "https://bonnierbooks.com/press/bonnier-books-denmark-acquires-jentas-books/",
+      "evidence_locator": "Opening paragraph; digital-format paragraph; publication-language paragraph; purchase-price paragraph (web-extracted lines 46, 50, 54, 56)",
+      "status": "Announced agreement; completed ownership not assigned",
+      "reviewed_on": "2026-10-12"
+    },
+    {
+      "company_id": "hachette_livre",
+      "date": "2026-10-15",
+      "category": "Quarterly and year-to-date publisher segment financial release",
+      "fact": "Lagardere Publishing released Q3 and nine-month revenue. These are worldwide segment receipts across its publishing businesses, including Partworks and Board Games; no separate audiobook total is provided.",
+      "url": "https://www.lagardere.com/en/press-release/third-quarter-2026-revenue/",
+      "attached_report_url": "https://www.lagardere.com/wp-content/uploads/2026/10/261015_lag_pr_q32026_revenue_en.pdf",
+      "vintage": "2026-10-15 release, reviewed 2026-10-19",
+      "evidence_locator": "PDF printed p.2: both revenue tables, Lagardere Publishing row; printed p.3: Publishing narrative, Partworks and Board Games paragraphs; printed p.5: like-for-like glossary.",
+      "period_metrics": [
+        {
+          "period": "2026 Q3",
+          "period_start": "2026-07-01",
+          "period_end": "2026-09-30",
+          "metric": "Lagardere Publishing reported revenue",
+          "value": 836,
+          "currency": "EUR",
+          "unit": "million",
+          "prior_period": "2025 Q3",
+          "prior_period_value": 811,
+          "reported_yoy_change_pct": 3.1,
+          "like_for_like_yoy_change_pct": 0.9
+        },
+        {
+          "period": "First nine months of 2026",
+          "period_start": "2026-01-01",
+          "period_end": "2026-09-30",
+          "metric": "Lagardere Publishing reported revenue",
+          "value": 2179,
+          "currency": "EUR",
+          "unit": "million",
+          "prior_period": "First nine months of 2025",
+          "prior_period_value": 2160,
+          "reported_yoy_change_pct": 0.9,
+          "like_for_like_yoy_change_pct": 1.1
+        }
+      ],
+      "metric_notes": [
+        "Like-for-like excludes consolidation-scope and foreign-exchange changes, as defined in the release.",
+        "Report explicitly notes Kogan Page and 999 Games acquisition scope effects; do not reconstruct adjusted growth from rounded reported values.",
+        "US publisher revenue growth is not national audiobook growth. The report mentions rising audiobook sales qualitatively without a standalone format total."
+      ],
+      "status": "Reviewed company release; excluded from annual industry/national adoption series",
+      "reviewed_on": "2026-10-19",
+      "report_sha256": "4dc0d54dd21bc24b1c87c1b6a57cc56a9206776eea36a06e0c75960300c35846",
+      "report_bytes": 549838,
+      "geography": "Worldwide consolidated Publishing segment operations; not resident consumer demand in any country",
+      "population": "Not applicable: consolidated corporate segment, including Partworks and Board Games",
+      "recall_period": "Not applicable: financial reporting intervals are specified separately for each metric",
+      "format_scope": "No standalone audiobook, ebook or print revenue total in this release"
+    },
+    {
+      "company_id": "nextory",
+      "date": "2026-10-19",
+      "category": "Regulator status recheck; prior transaction remains pending",
+      "fact": "Swedish Competition Authority case 697/2026 currently displays ongoing status and no decision date. The linked filing identifies Bonnier Books Group Holding AB proposed sole control of Nextory AB under the 1 September 2026 agreement.",
+      "url": "https://www.konkurrensverket.se/diarium/sok-i-Konkurrensverkets-diarium/arendedata/?caseNumber=697%2F2026",
+      "supporting_url": "https://www.konkurrensverket.se/diarium/sok-i-Konkurrensverkets-diarium/arendedata/file?pdf=26-0697s.pdf",
+      "case_number": "697/2026",
+      "case_arrival_date": "2026-10-06",
+      "case_registration_date": "2026-10-07",
+      "case_status_original": "Pågående",
+      "decision_date": null,
+      "evidence_locator": "Case page Status, Ankomstdatum, Registreringsdatum and Beslutsdatum fields; linked one-page filing summary paragraphs 1-3.",
+      "status": "Pending ownership retained; date is review date, not a new transaction or decision date",
+      "reviewed_on": "2026-10-19"
+    }
+  ],
+  "latest_reviewed_update": "2026-10-19",
+  "reviewed_windows": [
+    {
+      "reviewed_on": "2026-10-12",
+      "review_window_start": "2026-10-08",
+      "review_window_end": "2026-10-12",
+      "scope": "Bounded official public company evidence review of the existing 22-entry register; not an exhaustive census or definitive proof of no company changes."
+    },
+    {
+      "reviewed_on": "2026-10-19",
+      "review_window_start": "2026-10-12",
+      "review_window_end": "2026-10-19",
+      "scope": "Bounded official company and library industry release review; existing 23-entry company inventory, supporting official archives and regulator evidence. Search absence is not proof of no changes.",
+      "review_record": "data/curated/company_release_review_20261019.json"
+    }
+  ]
+}

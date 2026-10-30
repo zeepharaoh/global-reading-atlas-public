@@ -1,0 +1,249 @@
+{
+  "audible_compass_2025": {
+    "title": "Audible Hörkompass 2025, audiobook genres across four European countries",
+    "provider": "Audible / Verian, published by authorized PR agency BUCH CONTACT",
+    "source_url": "https://buchcontact.de/audible/",
+    "report_url": "https://buchcontact.de/wp-content/uploads/2025/09/Audible-Hoerkompass-2025_Infografiken.pdf",
+    "methods_url": "https://buchcontact.de/wp-content/uploads/2025/09/Audible-Hoerkompass-2025.pdf",
+    "methods_locator": "Press release PDF p.4, Über die Umfrage; infographic PDF p.2 bottom footnote",
+    "publication_date": "2025-10-13",
+    "fieldwork": "July 2025",
+    "report_vintage": 2025,
+    "country_survey_sample_size": 1000,
+    "listener_subset_sample_size": null,
+    "genre_denominator": "Online respondents18–65 who listened to an audiobook in past12months",
+    "multiple_response": true,
+    "extracted_genre_rows": 20,
+    "validated_on": "2026-10-25",
+    "excluded_combined_audio_headlines": {
+      "Germany": 49,
+      "Spain": 54,
+      "Italy": 45,
+      "France": 39
+    },
+    "exclusion_reason": "These are monthly audiobook OR audio-drama OR podcast reach, not audiobook participation.",
+    "pdf_sha256": "5220a13d8433763ed3f31ebe1caf3681821bd2bd37c02ef52fe41f3f7a261611"
+  },
+  "cnl_fr": {
+    "source_id": "cnl_fr",
+    "title": "Les Français et la lecture 2025",
+    "provider": "Centre national du livre / Ipsos",
+    "source_url": "https://centrenationaldulivre.fr/donnees-cles/les-francais-et-la-lecture-en-2025",
+    "report_url": "https://centrenationaldulivre.fr/sites/default/files/2025-04/Barom%C3%A8tre%20Les%20Fran%C3%A7ais%20et%20la%20lecture%20Rapport%20complet%202025-04-08.pdf",
+    "publication_date": "2025-04-08",
+    "report_vintage": 2025,
+    "survey_year": 2025,
+    "country": "France",
+    "country_iso3": "FRA",
+    "population": "France residents aged 15 and over; representative CATI telephone survey",
+    "sample_size": 1001,
+    "fieldwork_start": "2025-01-21",
+    "fieldwork_end": "2025-02-04",
+    "methods_locator": "Printed p.8 (PDF page 8), Note méthodologique",
+    "genre_locator": "Printed p.34 (PDF page 34), A2, PALMARES DES DOMAINES LITTÉRAIRES AU GLOBAL, current 2025 bars",
+    "genre_denominator": "All surveyed France residents aged 15+, n=1001, including nonreaders",
+    "genre_format": "Paper or digital books",
+    "genre_recall": "Past 12 months at Jan/Feb 2025 interview; includes leisure and work reading",
+    "genre_scope": "Book genres read, paper or digital, all respondents",
+    "genre_multiple_response": true,
+    "genre_unit": "Percent of all respondents",
+    "genre_values": {
+      "Livres pratiques, arts de vivre et loisirs": 52,
+      "Livres sur l'histoire": 46,
+      "Albums de bandes dessinées": 43,
+      "Romans policiers ou d'espionnage": 37,
+      "Livres d'art ou des beaux livres illustrés de photographies": 35,
+      "Livres scientifiques, techniques ou professionnels": 35,
+      "Livres pour enfants": 35,
+      "Livres sur le développement personnel, psychologie": 34,
+      "Essais politiques, philosophiques, religieux": 31,
+      "Œuvres de la littérature classique française ou étrangère": 29,
+      "Dictionnaire(s) ou encyclopédie(s)": 27,
+      "Romans de SF, fantastique, heroic-fantasy, horreur...": 27,
+      "Romans sentimentaux, de New Romance": 26,
+      "Livres de reportages d'actualité": 25,
+      "Mangas, comics": 23,
+      "Livres de poésie": 17,
+      "Romans de Dark romance": 7,
+      "Autres genres de romans": 38,
+      "D'autres genres de livres": 25
+    },
+    "genre_notes": "Original French labels retained. Romance wording changed from Romans sentimentaux du type Harlequin to include New Romance in 2025; do not compute growth for this category as if unchanged. Dark romance is a newly added 2025 option. Chart categories overlap, percentages do not sum to 100. ST Romans 70 is an aggregate and excluded from individual category list.",
+    "audio_locator": "Printed p.20 (PDF page 20), D4, Focus livre audio, overall donut and legend",
+    "audio_denominator": "All surveyed France residents aged 15+, n=1001",
+    "audio_definition": "Books read aloud and recorded, regardless of CD or digital file or distribution channel, including podcast platforms",
+    "audio_values": [
+      {
+        "measure": "Audiobook listening within past 12 months",
+        "participation": 15,
+        "period": "past_12_months"
+      },
+      {
+        "measure": "Audiobook listening more than a year ago",
+        "participation": 17,
+        "period": "more_than_one_year_ago"
+      },
+      {
+        "measure": "Ever listened to an audiobook",
+        "participation": 32,
+        "period": "ever"
+      },
+      {
+        "measure": "Never listened to an audiobook",
+        "participation": 68,
+        "period": "ever"
+      }
+    ],
+    "audio_notes": "The 15% annual value is explicit in the original legend. It is not the 32% ever-listened value. Podcast platforms here describe distribution of recorded books, not all podcast consumption. Do not compare 2017 to current because footnote identifies different 18+ online survey for 2017. Use survey year 2025 with rolling past12months note, not a complete calendar2025 measure.",
+    "validated_on": "2026-10-25",
+    "pdf_sha256": "158005f2cd1316f82c482f1671a7a296fdacc495bbdd2c0df919116129d36c3c"
+  },
+  "fgee_es": {
+    "title": "Hábitos de Lectura y Compra de Libros en España 2025",
+    "provider": "FGEE / Conecta, with CEDRO sponsorship and Ministry of Culture collaboration",
+    "source_url": "https://federacioneditores.org/estudios-fgee/",
+    "report_url": "https://federacioneditores.org/wp-content/uploads/2026/02/habitos-de-lectura-2025.pdf",
+    "publication_date": "2026-01-22",
+    "report_vintage": 2025,
+    "observation_year": 2025,
+    "population": "Spain residents aged14+",
+    "sample_size": 4800,
+    "fieldwork_dates": null,
+    "sampling_mode": null,
+    "methods_note": "Published report PDF skips printed methodological pages6–13 after Objectives and methodology cover. Exact fieldwork and survey mode not retrieved, must remain unknown.",
+    "question": "¿Suele escuchar audiolibros? ¿Con qué frecuencia?",
+    "recall": "Usual listening; no explicit annual recall period",
+    "locator": "Printedp57, PDFpage48; total9.0 and2018–2025 retrospective series",
+    "reconciliation_note": "Published total9.0 versus6.2frequent+2.5occasional=8.7; preserve as-reported total with note, no recomputation.",
+    "release_url": "https://federacioneditores.org/la-lectura-por-ocio-sigue-creciendo-en-espana-el-662-de-la-poblacion-lee-libros-en-su-tiempo/",
+    "government_confirmation": "https://www.cultura.gob.es/actualidad/2026/01/260122-barometro-lectura-2025.html",
+    "validated_on": "2026-10-25",
+    "pdf_sha256": "3b72cda3646bd30ae3651d64d7b4d1da622dc291db15d73f45c6c76b97d190ba"
+  },
+  "inegi_mx": {
+    "report_url": "https://en.www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/molec/molec2025_RR.pdf",
+    "publication_date": "2025-11-18",
+    "observation_year": 2025,
+    "fieldwork_start": "2025-06-02",
+    "fieldwork_end": "2025-06-27",
+    "method": "Face to face household interviews",
+    "sampled_dwellings": 4818,
+    "genre_subset_sample_size": null,
+    "genre_values": {
+      "Autoayuda, superación personal o religiosos": 42.3,
+      "Literatura": 43.1,
+      "Específicos de alguna materia o profesión": 35.0,
+      "Cultura general": 29.1,
+      "Manuales, guías, recetarios o de otro tipo": 27.0
+    },
+    "locator": "Printed p.11 Figure 7; methods pp.2 to 5",
+    "excluded_measure": "Broad MOLEC material reading is not book participation; no audiobook listening value extracted",
+    "sha256": "b16f8369b255d820d90911f335bb12b7016e2230d7256ac99ef790697922936e"
+  },
+  "kvb_nl_m75": {
+    "report_url": "https://kvbboekwerk.nl/wp-content/uploads/2026/06/Reguliere-meting-M75-rapportage.pdf",
+    "publication_date": "2026-06",
+    "publication_precision": "month; public summary dated 22 June 2026",
+    "report_vintage": 2026,
+    "observation_years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "fieldwork_start": "2026-01-19",
+    "fieldwork_end": "2026-02-02",
+    "population": "Netherlands age 14+",
+    "sample_size": 1200,
+    "method": "CAWI GfK online panel, weighted sex age and education",
+    "locator": "p.24 D05 weekly bars, p.72 methods",
+    "weekly_values": {
+      "2022": 5,
+      "2023": 6,
+      "2024": 10,
+      "2025": 8,
+      "2026": 10
+    },
+    "excluded_measures": [
+      "Any-listening totals: narrative28 versus never71 implies29; no total inferred",
+      "Genre purchase table p.56: unrelated right hand categories repeat left hand2026 percentages; pending correction"
+    ],
+    "sha256": "a3b6c3b1e47f4c53f4abd1f432c1aecd511d65f126168c4e647870cd95ffc329"
+  },
+  "reviewed_on": "2026-10-25",
+  "excluded_sources": {
+    "ipl_br": "Original publisher file redirects to suspended website. No new numeric extract accepted. Last documented source status retained."
+  },
+  "creative_au": {
+    "publication_date": "2026-06-03",
+    "publication_date_evidence": "https://creative.gov.au/research?page=7; featured Creative Transformations entry explicitly dated 03 Jun 2026",
+    "title": "Creative Transformations: Results of the National Arts Participation Survey",
+    "source_id": "creative_au",
+    "provider": "Creative Australia / Lonergan Research",
+    "source_url": "https://creative.gov.au/sites/creative-australia/files/documents/2026-06/National%20Arts%20Participation%20Survey%20Results%202025_FA%20TAGGED_0.pdf",
+    "pdf_sha256": "de50df434c7390069565d6e6bc6a1eb8cd4d6ce470c98b2825fdc309edb0cd68",
+    "fieldwork_2025": "July to September 2025 (main quantitative survey); June 2025 was qualitative focus groups",
+    "methodology": "Printed pp.16-19, PDF indices17-20. Main n9065 =8997 online (7397 general+1600 state/territory boosts)+68 focused First Nations face-to-face. Separate Easy Read n86 and translated n183 excluded frommain9065. Cell weights age/gender/location to ABS2021Census. 2022 n9396 stated next to Figure59. No inferential statistics computed.",
+    "additional_exact_data": {
+      "source_url": "https://creative.gov.au/sites/creative-australia/files/documents/2026-10/NAPS%202025.zip",
+      "workbook": "NAPS 2025 Tables All Australians.xlsx",
+      "sheet": "Table 7",
+      "cells": "B6:B11 (Total Australia aged15+); B13 n9065; Table7B4 population header; A15 filter2025",
+      "values_proportion": [
+        0.4602263436457,
+        0.2937176582764,
+        0.2907644070084,
+        0.1313566780432,
+        0.08747119890059,
+        0.06489045046123
+      ],
+      "guidance": "Use rounded printed PDF percentages in charts for consistency. Exact workbook values corroborate six genres; ZIP dated October2026 is a later machine-readable artifact, not a 2026 observation."
+    },
+    "genre_rows": 12,
+    "format_rows_imported": 6
+  },
+  "yougov_us_2025_books": {
+    "publication_date": "2025-12-31",
+    "publication_date_evidence": "https://yougovamerica.substack.com/p/most-americans-didnt-read-many-books",
+    "title": "YouGov Survey: 2025 Reading and Books",
+    "source_id": "yougov_us_2025_books",
+    "provider": "YouGov",
+    "source_url": "https://ygo-assets-websites-editorial-emea.yougov.net/documents/2025_Reading_and_Books_poll_results.pdf",
+    "pdf_sha256": "a38e34b4a940d4ad864c13f1e7d1c9a1d6109d19cbe2ac8f5c26423be1439c49",
+    "methodology": "Printedp51/PDFindex58: web interviews from YouGov opt-in panel; target U.S. citizens18+; overall n2203; weighted gender age race education region andpoliticalvariables. Questionnaire header Dec15-19,2025; methods list two tracks Dec15-18 andDec16-19. Main Q4/Q9 tables n2201. Weighted MOE2.8points as reported, not independently estimated.",
+    "extraction_cautions": [
+      "Do not use newsletter reader-only35%mystery in place of original allcitizen21%table.",
+      "Any-book Q1table60% contrasts with newsletter59%; not submitted for ingestion pending reconciliation.",
+      "No format-specific genre shares are available in this public table. All book formats must remain the formatlabel."
+    ],
+    "genre_rows": 21,
+    "format_rows_imported": 0
+  },
+  "pending_reviews": {
+    "uk_ofcom_2026": {
+      "status": "documented_pending_exact_numeric_visual_validation",
+      "publication_date": "2026-05-20",
+      "observation_year": 2026,
+      "source_url": "https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128",
+      "technical_report_url": "https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-technical-report.pdf?v=418120",
+      "tables_url": "https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-survey-data-tables.xlsx?v=423476",
+      "locator": "Printedp4 Figure1; Q1 weekly reach includes audiobooks as own type",
+      "population": "UK adults16+; weighted online Yonder sample n3469",
+      "fieldwork": "20-27February2026",
+      "comparability": "2022-24 mixed CATI/online;2025onward onlineonly. Weeklymeasure separate from annual or daily.",
+      "blocker": "Direct PDF/XLSX downloads403Cloudflare; webPDFtext available but Figure1label-to-series not visually validated. Do not ingest guessed audiopercentages."
+    },
+    "new_zealand_2025": {
+      "status": "documented_not_submitted_for_ingestion",
+      "source_url": "https://www.read-nz.org/images/assets/8125/1/horizon%20research%20national%20reading%20survey%202025%20report%20final.pdf",
+      "publication_date": "March2025 as report cover; exact dayunverified",
+      "population": "NZ adults18+; weighted online panels n1024; March17-23,2025",
+      "genre_locator": "Printedp15/PDFindex16 fiction table; printedp17/PDFindex18 nonfiction table",
+      "cautions": [
+        "Genre table All Readers, percentages sum selections from10%-100%scale; exact questionnaire/routing not included.",
+        "Audio summary43%readerbase differs from40%audio onprintedp14 and60%never onprintedp38 total sample. Hold audio until source clarifies bases."
+      ]
+    }
+  }
+}

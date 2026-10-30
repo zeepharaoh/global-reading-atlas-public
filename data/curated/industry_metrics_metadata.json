@@ -1,0 +1,247 @@
+{
+  "reviewed_on": "2026-10-25",
+  "observation_year_range": [
+    2022,
+    2025
+  ],
+  "observation_year_gaps": [],
+  "latest_full_year": 2025,
+  "revenue_is_audience": false,
+  "inflation_adjusted": false,
+  "currency_converted": false,
+  "computed_growth_allowed": false,
+  "cross_family_audio_share_allowed": false,
+  "latest_vintage_history_gaps": {
+    "aap_us_annual": "Exact latest 2026-vintage 2022 and 2023 estimates are not in the accessed public release. Full paid reports were not accessed.",
+    "uk_pa_industry": "No matched latest-vintage 2022–2024 history was extracted. 2024 original audio £268M cannot be combined with 2025 £255M to infer a decline."
+  },
+  "explicit_revision_evidence": [
+    {
+      "source_id": "aap_us_annual",
+      "observation_year": 2023,
+      "original_value_usd_million": 29900,
+      "later_published_value_usd_million": 31300,
+      "original_release_date": "2024-08-22",
+      "later_release_date": "2025-08-26",
+      "later_source_url": "https://publishers.org/news/aap-statshot-annual-report-publishing-revenues-totaled-32-5-billion-for-calendar-year-2024/"
+    },
+    {
+      "source_id": "uk_pa_industry",
+      "original_2024_audio_gbp_million": 268,
+      "published_2025_audio_gbp_million": 255,
+      "reported_2025_growth_percent": 10,
+      "interpretation": "Different release vintages. Cannot infer 2024 revised revenue by reversing a rounded growth rate."
+    }
+  ],
+  "display_guidance": "Use one source-specific series per chart. Retain currency, market scope, observation year, publication precision and report vintage. No country ranking, pooled growth, automatic FX conversion or inferred unpublished years.",
+  "visual_validation": "UK 2025 one-page PDF Consumer panel: audio books £255 million, print £2.1 billion, total consumer £2.6 billion. The £254 million figure belongs to academic print journals.",
+  "reviewed_country_count": 29,
+  "series_count": 42,
+  "observation_count": 98,
+  "reviewed_countries": [
+    "Austria",
+    "Azerbaijan",
+    "Belgium",
+    "Brazil",
+    "Canada",
+    "Colombia",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Hungary",
+    "Iceland",
+    "India",
+    "Ireland",
+    "Italy",
+    "Japan",
+    "Malta",
+    "Netherlands",
+    "New Zealand",
+    "Norway",
+    "Philippines",
+    "Portugal",
+    "Russian Federation",
+    "Spain",
+    "Sweden",
+    "Türkiye",
+    "United Kingdom",
+    "United States"
+  ],
+  "project_currency_conversion_performed": false,
+  "source_currency_conversion": "WIPO reports historical amounts in USD million using its declared rates. The project performs no further FX conversion.",
+  "expanded_review_file": "industry_review_20261025.json",
+  "publication_date_precision": "WIPO publication date remains2023 at year precision; no month or day invented.",
+  "latest_observation_by_country": {
+    "Austria": 2022,
+    "Azerbaijan": 2022,
+    "Belgium": 2022,
+    "Brazil": 2025,
+    "Canada": 2024,
+    "Colombia": 2022,
+    "Czechia": 2022,
+    "Denmark": 2022,
+    "Finland": 2025,
+    "France": 2025,
+    "Germany": 2025,
+    "Hungary": 2022,
+    "Iceland": 2022,
+    "India": 2022,
+    "Ireland": 2022,
+    "Italy": 2022,
+    "Japan": 2025,
+    "Malta": 2022,
+    "Netherlands": 2025,
+    "New Zealand": 2022,
+    "Norway": 2022,
+    "Philippines": 2022,
+    "Portugal": 2022,
+    "Russian Federation": 2022,
+    "Spain": 2025,
+    "Sweden": 2025,
+    "Türkiye": 2022,
+    "United Kingdom": 2025,
+    "United States": 2025
+  },
+  "missing_years_by_series": {
+    "aut_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "aze_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "bel_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "br_cbl_print_publisher_government_revenue": [
+      2022,
+      2023
+    ],
+    "br_cbl_print_publisher_market_revenue": [
+      2022,
+      2023
+    ],
+    "br_cbl_print_publisher_total_revenue": [
+      2022,
+      2023
+    ],
+    "ca_statcan_book_publishers_operating_revenue": [
+      2023,
+      2025
+    ],
+    "col_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "cze_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "de_boersenverein_total_sales_2026_vintage": [],
+    "dnk_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "es_fgee_domestic_audiobook_billings_2026_vintage": [],
+    "es_fgee_domestic_ebook_billings_2026_vintage": [],
+    "es_fgee_domestic_print_billings_2026_vintage": [
+      2022,
+      2023,
+      2024
+    ],
+    "es_fgee_domestic_total_billings_2026_vintage": [],
+    "fi_sky_total_publisher_net_sales": [
+      2022,
+      2023,
+      2024
+    ],
+    "fr_sne_book_sales_revenue_2026_vintage": [
+      2022,
+      2023
+    ],
+    "fr_sne_publisher_total_revenue_2026_vintage": [],
+    "hun_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "ind_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "irl_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "isl_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "ita_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "jp_ajpea_digital_comics_sales_2026_vintage": [],
+    "jp_ajpea_ebook_sales_2026_vintage": [],
+    "jp_ajpea_paper_sales_2026_vintage": [],
+    "mlt_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "nl_kvb_general_retail_revenue_as_published": [],
+    "nor_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "nzl_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "phl_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "prt_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "rus_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "se_bfs_print_retail_revenue": [],
+    "se_bfs_streamed_audio_retail_revenue": [],
+    "se_bfs_streamed_ebook_retail_revenue": [],
+    "se_bfs_total_retail_revenue": [],
+    "tur_wipo_reported_publishing_revenue_2022": [
+      2023,
+      2024,
+      2025
+    ],
+    "uk_pa_consumer_audio_revenue_as_published": [],
+    "uk_pa_consumer_print_revenue_as_published": [],
+    "us_aap_total_revenue_as_published": [],
+    "us_apa_audiobook_revenue": []
+  },
+  "audio_validation_hold": "Finnish2025 HTML43.360 EUR million conflicts with official Excel43.610 EUR million. No Finnish audiobook values imported."
+}

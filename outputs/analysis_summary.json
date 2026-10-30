@@ -1,0 +1,21 @@
+{
+  "europe_observed_countries": 32,
+  "europe_missing_countries": [
+    "Germany"
+  ],
+  "europe_top": {
+    "country": "Switzerland",
+    "participation": 80.6
+  },
+  "europe_bottom": {
+    "country": "Albania",
+    "participation": 29.2
+  },
+  "eu_benchmark": 52.8,
+  "country_median": 53.4,
+  "women_higher_countries": 32,
+  "gender_assessable_countries": 32,
+  "us_2011_audio_pct": 11.0,
+  "us_2021_audio_pct": 23.0,
+  "us_2025_audio_pct": 26.0
+}
