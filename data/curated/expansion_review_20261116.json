@@ -1,0 +1,47 @@
+{
+  "reviewed_on": "2026-11-16",
+  "scope": "Public audiobook, format and genre evidence expansion using official sources, Firecrawl and web retrieval, with PDF charts and methods checked against original downloaded reports.",
+  "added_rows": {
+    "audio": 2,
+    "formats": 3,
+    "genres": 52
+  },
+  "new_audiobook_countries": [
+    "Brazil",
+    "Denmark",
+    "United Kingdom"
+  ],
+  "new_genre_countries": [
+    "Brazil",
+    "Denmark"
+  ],
+  "expanded_independent_genre_sources": [
+    "Poland"
+  ],
+  "review_records": [
+    "expansion_brazil_20261116.json",
+    "expansion_denmark_20261116.json",
+    "expansion_poland_20261116.json",
+    "expansion_readingagency_20261116.json"
+  ],
+  "pending_sources": [
+    {
+      "source_id": "uk_ofcom_2026",
+      "source_url": "https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/data/statistics/2026/audio-listening-in-uk/audio-report-2026.pdf?v=418128",
+      "evidence_locator": "Printed p.4 Figure 1 and base note; questionnaire Q1G; technical report fieldwork and weighting sections.",
+      "review_status": "Held for original figure verification",
+      "retrieved": "Firecrawl retrieved the first 8 of 20 report pages, the first 2 questionnaire pages and the complete one-page technical report. Q1 separately defines audiobooks. A generated chart table remains subject to original figure validation.",
+      "access_status": "Direct download returned HTTP 403 and browser access showed a security verification page. Existing source-documented status and validated observations are retained."
+    },
+    {
+      "source_id": "new_zealand_2025",
+      "review_status": "Held for questionnaire and denominator clarification",
+      "notes": "The report contains different audiobook questions using reader, total and answered-item bases. Proposed complements and genre percentages are not added."
+    },
+    {
+      "source_id": "nrb_za",
+      "review_status": "No separate audiobook observation verified",
+      "notes": "Broader reading questions are retained as documented sources."
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "checked_on": "2026-11-20",
+  "review_window_start": "2026-11-17",
+  "review_window_end": "2026-11-20",
+  "scope": "Bounded official survey and trade-association release review. Retrieval and accepted extraction records are distinct.",
+  "findings": [
+    {
+      "source_id": "inegi_mx",
+      "status": "Five new 2026 book-type observations accepted after original PDF visual verification",
+      "observation_year": 2026,
+      "publication_date": "2026-11-18",
+      "fieldwork_start": "2026-06-02",
+      "fieldwork_end": "2026-07-03",
+      "source_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/molec/MOLEC2026_RR.pdf",
+      "press_release_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/molec/MOLEC2026_CP.pdf",
+      "report_vintage": "MOLEC 2026 Reporte de resultados 55/26",
+      "report_sha256": "3e26d2545684e75ecf152ca4d953e4e9aa4c6d28fe29876475796c9ac16784b3",
+      "geography": "Mexico, national urban and rural coverage",
+      "population": "Book readers aged 12+ within the national MOLEC sample",
+      "denominator": "People aged 12+ who read a book in the past 12 months; exact subgroup n unpublished",
+      "unit": "Percent of book readers",
+      "recall_period": "Past 12 months",
+      "evidence_locator": "Printed p.10 (PDF index 9), Figure 7, 2026 bars; methods pp.2 to 4; book reference window p.4",
+      "sampled_dwellings": 4820,
+      "reader_sample_size": null,
+      "population_wording_note": "Report 55/26 objective and charts say population aged 12+. The press-release introduction says literate population aged 12+. Only the explicitly defined book reader subset is extracted.",
+      "visual_validation": "Rendered and inspected original PDF pages 10 and 4. All five 2026 chart values match the report prose. The same-vintage 2025 values match the five previous source rows.",
+      "same_vintage_2025_values": {
+        "Autoayuda, superación personal o religiosos": 42.3,
+        "Literatura": 43.1,
+        "Específicos de alguna materia o profesión": 35.0,
+        "Cultura general": 29.1,
+        "Manuales, guías, recetarios o de otro tipo": 27.0
+      },
+      "added_observations": [
+        {
+          "country_iso3": "MEX",
+          "country": "Mexico",
+          "year": 2026,
+          "format_label": "Paper or digital",
+          "participation": 44.6,
+          "denominator": "Mexico residents aged 12+ who read a book in the past 12 months; exact reader subgroup n unpublished",
+          "population": "Mexico residents aged 12+; national urban and rural coverage; book reader subset",
+          "period": "Past 12 months",
+          "comparison_group": "Mexico MOLEC book readers",
+          "source_id": "inegi_mx",
+          "source_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/molec/MOLEC2026_RR.pdf",
+          "evidence_locator": "Report 55/26 printed p.10 (PDF index 9), Figure 7, 2026 bars; methods pp.2 to 4, book recall period p.4",
+          "sample_size": null,
+          "notes": "Published 18 November 2026; fieldwork 2 June to 3 July 2026, face-to-face mobile interviews. The survey sampled 4820 dwellings, including 2336 in the 32-city aggregate and 2484 elsewhere; these dwelling counts are not the book reader denominator. Book reading has a past-12-month recall period. Multiple responses can overlap. Original Spanish categories retained and paper or digital formats remain combined. Report 55/26 describes the national age 12+ population, while the press-release introduction describes the programme as covering literate residents. The displayed denominator is explicitly the book reader subset. The report reproduces the existing 2025 genre percentages in the same chart; prior rows and source definitions are preserved. No audiobook genre split is published. Do not combine this national series with the pre-2025 urban age 18+ series. Reviewed 20 November 2026.",
+          "genre": "Autoayuda, superación personal o religiosos",
+          "genre_scope": "Book types read, paper or digital"
+        },
+        {
+          "country_iso3": "MEX",
+          "country": "Mexico",
+          "year": 2026,
+          "format_label": "Paper or digital",
+          "participation": 53.8,
+          "denominator": "Mexico residents aged 12+ who read a book in the past 12 months; exact reader subgroup n unpublished",
+          "population": "Mexico residents aged 12+; national urban and rural coverage; book reader subset",
+          "period": "Past 12 months",
+          "comparison_group": "Mexico MOLEC book readers",
+          "source_id": "inegi_mx",
+          "source_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/molec/MOLEC2026_RR.pdf",
+          "evidence_locator": "Report 55/26 printed p.10 (PDF index 9), Figure 7, 2026 bars; methods pp.2 to 4, book recall period p.4",
+          "sample_size": null,
+          "notes": "Published 18 November 2026; fieldwork 2 June to 3 July 2026, face-to-face mobile interviews. The survey sampled 4820 dwellings, including 2336 in the 32-city aggregate and 2484 elsewhere; these dwelling counts are not the book reader denominator. Book reading has a past-12-month recall period. Multiple responses can overlap. Original Spanish categories retained and paper or digital formats remain combined. Report 55/26 describes the national age 12+ population, while the press-release introduction describes the programme as covering literate residents. The displayed denominator is explicitly the book reader subset. The report reproduces the existing 2025 genre percentages in the same chart; prior rows and source definitions are preserved. No audiobook genre split is published. Do not combine this national series with the pre-2025 urban age 18+ series. Reviewed 20 November 2026.",
+          "genre": "Literatura",
+          "genre_scope": "Book types read, paper or digital"
+        },
+        {
+          "country_iso3": "MEX",
+          "country": "Mexico",
+          "year": 2026,
+          "format_label": "Paper or digital",
+          "participation": 38.2,
+          "denominator": "Mexico residents aged 12+ who read a book in the past 12 months; exact reader subgroup n unpublished",
+          "population": "Mexico residents aged 12+; national urban and rural coverage; book reader subset",
+          "period": "Past 12 months",
+          "comparison_group": "Mexico MOLEC book readers",
+          "source_id": "inegi_mx",
+          "source_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/molec/MOLEC2026_RR.pdf",
+          "evidence_locator": "Report 55/26 printed p.10 (PDF index 9), Figure 7, 2026 bars; methods pp.2 to 4, book recall period p.4",
+          "sample_size": null,
+          "notes": "Published 18 November 2026; fieldwork 2 June to 3 July 2026, face-to-face mobile interviews. The survey sampled 4820 dwellings, including 2336 in the 32-city aggregate and 2484 elsewhere; these dwelling counts are not the book reader denominator. Book reading has a past-12-month recall period. Multiple responses can overlap. Original Spanish categories retained and paper or digital formats remain combined. Report 55/26 describes the national age 12+ population, while the press-release introduction describes the programme as covering literate residents. The displayed denominator is explicitly the book reader subset. The report reproduces the existing 2025 genre percentages in the same chart; prior rows and source definitions are preserved. No audiobook genre split is published. Do not combine this national series with the pre-2025 urban age 18+ series. Reviewed 20 November 2026.",
+          "genre": "Específicos de alguna materia o profesión",
+          "genre_scope": "Book types read, paper or digital"
+        },
+        {
+          "country_iso3": "MEX",
+          "country": "Mexico",
+          "year": 2026,
+          "format_label": "Paper or digital",
+          "participation": 35.1,
+          "denominator": "Mexico residents aged 12+ who read a book in the past 12 months; exact reader subgroup n unpublished",
+          "population": "Mexico residents aged 12+; national urban and rural coverage; book reader subset",
+          "period": "Past 12 months",
+          "comparison_group": "Mexico MOLEC book readers",
+          "source_id": "inegi_mx",
+          "source_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/molec/MOLEC2026_RR.pdf",
+          "evidence_locator": "Report 55/26 printed p.10 (PDF index 9), Figure 7, 2026 bars; methods pp.2 to 4, book recall period p.4",
+          "sample_size": null,
+          "notes": "Published 18 November 2026; fieldwork 2 June to 3 July 2026, face-to-face mobile interviews. The survey sampled 4820 dwellings, including 2336 in the 32-city aggregate and 2484 elsewhere; these dwelling counts are not the book reader denominator. Book reading has a past-12-month recall period. Multiple responses can overlap. Original Spanish categories retained and paper or digital formats remain combined. Report 55/26 describes the national age 12+ population, while the press-release introduction describes the programme as covering literate residents. The displayed denominator is explicitly the book reader subset. The report reproduces the existing 2025 genre percentages in the same chart; prior rows and source definitions are preserved. No audiobook genre split is published. Do not combine this national series with the pre-2025 urban age 18+ series. Reviewed 20 November 2026.",
+          "genre": "Cultura general",
+          "genre_scope": "Book types read, paper or digital"
+        },
+        {
+          "country_iso3": "MEX",
+          "country": "Mexico",
+          "year": 2026,
+          "format_label": "Paper or digital",
+          "participation": 21.1,
+          "denominator": "Mexico residents aged 12+ who read a book in the past 12 months; exact reader subgroup n unpublished",
+          "population": "Mexico residents aged 12+; national urban and rural coverage; book reader subset",
+          "period": "Past 12 months",
+          "comparison_group": "Mexico MOLEC book readers",
+          "source_id": "inegi_mx",
+          "source_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/molec/MOLEC2026_RR.pdf",
+          "evidence_locator": "Report 55/26 printed p.10 (PDF index 9), Figure 7, 2026 bars; methods pp.2 to 4, book recall period p.4",
+          "sample_size": null,
+          "notes": "Published 18 November 2026; fieldwork 2 June to 3 July 2026, face-to-face mobile interviews. The survey sampled 4820 dwellings, including 2336 in the 32-city aggregate and 2484 elsewhere; these dwelling counts are not the book reader denominator. Book reading has a past-12-month recall period. Multiple responses can overlap. Original Spanish categories retained and paper or digital formats remain combined. Report 55/26 describes the national age 12+ population, while the press-release introduction describes the programme as covering literate residents. The displayed denominator is explicitly the book reader subset. The report reproduces the existing 2025 genre percentages in the same chart; prior rows and source definitions are preserved. No audiobook genre split is published. Do not combine this national series with the pre-2025 urban age 18+ series. Reviewed 20 November 2026.",
+          "genre": "Manuales, guías, recetarios o de otro tipo",
+          "genre_scope": "Book types read, paper or digital"
+        }
+      ],
+      "not_imported": [
+        "The national book-reading total and print/digital format split remain documented only.",
+        "The report supplies no distinct audiobook participation or audiobook genre measure.",
+        "Other materials such as magazines, newspapers, websites and social networks are outside this book-type extract."
+      ],
+      "previous_source_register_entry": {
+        "source_id": "inegi_mx",
+        "title": "MOLEC 2025",
+        "provider": "INEGI",
+        "country_iso3": "MEX",
+        "survey_year": 2025,
+        "review_status": "data_extracted",
+        "book_participation": "documented",
+        "audiobook_separate": "not_in_reviewed_source",
+        "genre_detail": "extracted",
+        "population": "Literate Mexico residents aged 12+; book reader subset for genres; 4818 sampled dwellings is not subgroup n",
+        "recall_period": "past_12_months",
+        "access": "Public reports and microdata catalogue",
+        "source_url": "https://en.www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/molec/molec2025_RR.pdf",
+        "evidence_locator": "Report 45/25 pp.2 to 5 methods; p.11 Figure 7 book types among book readers",
+        "comparability_notes": "Published 18 November 2025; fieldwork 2 to 27 June 2025, face to face. 4818 sampled dwellings is not the reader denominator. Multiple response. Original Spanish categories retained. Includes educational and professional categories; no audiobook genre split. New national age 12+ series in 2025 replaces prior urban age 18+ scope. Do not join into previous series.",
+        "next_action": "Monitor next national release; retain 2025 population and method break",
+        "reviewed_on": "2026-10-25",
+        "publication_date": "2025-11-18"
+      }
+    }
+  ],
+  "other_rechecks": [
+    {
+      "source_ids": [
+        "aap_us_annual",
+        "apa_us_sales"
+      ],
+      "urls": [
+        "https://publishers.org/news/",
+        "https://publishers.org/aap-news/",
+        "https://www.audiopub.org/surveys"
+      ],
+      "decision": "No new comparable annual book or audiobook figures located in the bounded review. AAP's latest visible monthly release remains August 2026, published 14 October. Annual values remain separate from monthly and cumulative results."
+    },
+    {
+      "source_id": "uk_pa_industry",
+      "url": "https://www.publishers.org.uk/news/",
+      "decision": "17 and 19 November entries cover publicity and career case studies. No new annual monetary release located."
+    },
+    {
+      "source_id": "se_bfs_retail_2025",
+      "url": "https://forlaggare.se/",
+      "decision": "Latest quantitative trade report remains the separately reviewed 28 October third-quarter report. November listings are title ranks or other news."
+    },
+    {
+      "source_id": "de_boersenverein_monitor_2026_11",
+      "url": "https://www.boersenverein.de/tx_boev_newsletter_view?tx_boev_pi14%5Bbackend_layout%5D=pagets__newsletter&tx_boev_pi14%5Buid%5D=3132",
+      "decision": "The November monitor still reports October retail change of 2.7 percent and January to October change of minus 2.0 percent. This edition was already reviewed and remains monthly retail context."
+    },
+    {
+      "source_ids": [
+        "kvb_nl_industry",
+        "fi_sky_annual_sales"
+      ],
+      "urls": [
+        "https://kvbboekwerk.nl/monitor/markt/verkoopcijfers-2025",
+        "https://kustantajat.fi/tilastot"
+      ],
+      "decision": "No new annual country monetary release located in the bounded source search. Finland's previously unresolved annual audiobook discrepancy stays on hold."
+    }
+  ]
+}

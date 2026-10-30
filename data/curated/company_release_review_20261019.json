@@ -1,0 +1,119 @@
+{
+  "reviewed_on": "2026-10-19",
+  "review_window_start": "2026-10-12",
+  "review_window_end": "2026-10-19",
+  "scope": "Bounded official company and library industry release review; existing 23-entry company inventory, supporting official archives and regulator evidence. Search absence is not proof of no changes.",
+  "company_registry_rows_added": 0,
+  "annual_industry_rows_added": 0,
+  "national_observations_added": 0,
+  "source_references_additions": {
+    "hachette_livre": [
+      "https://www.lagardere.com/en/press-release/third-quarter-2026-revenue/",
+      "https://www.lagardere.com/wp-content/uploads/2026/10/261015_lag_pr_q32026_revenue_en.pdf"
+    ],
+    "nextory": [
+      "https://www.konkurrensverket.se/diarium/sok-i-Konkurrensverkets-diarium/arendedata/?caseNumber=697%2F2026",
+      "https://www.konkurrensverket.se/diarium/sok-i-Konkurrensverkets-diarium/arendedata/file?pdf=26-0697s.pdf"
+    ]
+  },
+  "material_updates_additions": [
+    {
+      "company_id": "hachette_livre",
+      "date": "2026-10-15",
+      "category": "Quarterly and year-to-date publisher segment financial release",
+      "fact": "Lagardere Publishing released Q3 and nine-month revenue. These are worldwide segment receipts across its publishing businesses, including Partworks and Board Games; no separate audiobook total is provided.",
+      "url": "https://www.lagardere.com/en/press-release/third-quarter-2026-revenue/",
+      "attached_report_url": "https://www.lagardere.com/wp-content/uploads/2026/10/261015_lag_pr_q32026_revenue_en.pdf",
+      "vintage": "2026-10-15 release, reviewed 2026-10-19",
+      "evidence_locator": "PDF printed p.2: both revenue tables, Lagardere Publishing row; printed p.3: Publishing narrative, Partworks and Board Games paragraphs; printed p.5: like-for-like glossary.",
+      "period_metrics": [
+        {
+          "period": "2026 Q3",
+          "period_start": "2026-07-01",
+          "period_end": "2026-09-30",
+          "metric": "Lagardere Publishing reported revenue",
+          "value": 836,
+          "currency": "EUR",
+          "unit": "million",
+          "prior_period": "2025 Q3",
+          "prior_period_value": 811,
+          "reported_yoy_change_pct": 3.1,
+          "like_for_like_yoy_change_pct": 0.9
+        },
+        {
+          "period": "First nine months of 2026",
+          "period_start": "2026-01-01",
+          "period_end": "2026-09-30",
+          "metric": "Lagardere Publishing reported revenue",
+          "value": 2179,
+          "currency": "EUR",
+          "unit": "million",
+          "prior_period": "First nine months of 2025",
+          "prior_period_value": 2160,
+          "reported_yoy_change_pct": 0.9,
+          "like_for_like_yoy_change_pct": 1.1
+        }
+      ],
+      "metric_notes": [
+        "Like-for-like excludes consolidation-scope and foreign-exchange changes, as defined in the release.",
+        "Report explicitly notes Kogan Page and 999 Games acquisition scope effects; do not reconstruct adjusted growth from rounded reported values.",
+        "US publisher revenue growth is not national audiobook growth. The report mentions rising audiobook sales qualitatively without a standalone format total."
+      ],
+      "status": "Reviewed company release; excluded from annual industry/national adoption series",
+      "reviewed_on": "2026-10-19",
+      "report_sha256": "4dc0d54dd21bc24b1c87c1b6a57cc56a9206776eea36a06e0c75960300c35846",
+      "report_bytes": 549838,
+      "geography": "Worldwide consolidated Publishing segment operations; not resident consumer demand in any country",
+      "population": "Not applicable: consolidated corporate segment, including Partworks and Board Games",
+      "recall_period": "Not applicable: financial reporting intervals are specified separately for each metric",
+      "format_scope": "No standalone audiobook, ebook or print revenue total in this release"
+    },
+    {
+      "company_id": "nextory",
+      "date": "2026-10-19",
+      "category": "Regulator status recheck; prior transaction remains pending",
+      "fact": "Swedish Competition Authority case 697/2026 currently displays ongoing status and no decision date. The linked filing identifies Bonnier Books Group Holding AB proposed sole control of Nextory AB under the 1 September 2026 agreement.",
+      "url": "https://www.konkurrensverket.se/diarium/sok-i-Konkurrensverkets-diarium/arendedata/?caseNumber=697%2F2026",
+      "supporting_url": "https://www.konkurrensverket.se/diarium/sok-i-Konkurrensverkets-diarium/arendedata/file?pdf=26-0697s.pdf",
+      "case_number": "697/2026",
+      "case_arrival_date": "2026-10-06",
+      "case_registration_date": "2026-10-07",
+      "case_status_original": "Pågående",
+      "decision_date": null,
+      "evidence_locator": "Case page Status, Ankomstdatum, Registreringsdatum and Beslutsdatum fields; linked one-page filing summary paragraphs 1-3.",
+      "status": "Pending ownership retained; date is review date, not a new transaction or decision date",
+      "reviewed_on": "2026-10-19"
+    }
+  ],
+  "other_release_reviews": [
+    {
+      "company_id": "jentas_books",
+      "publication_date": "2026-10-09",
+      "url": "https://bonnierbooks.com/press/bonnier-books-denmark-acquires-jentas-books/",
+      "evidence_locator": "Opening acquisition-agreement paragraph and paragraph stating Jentas will become part of Bonnier Books Danmark.",
+      "decision": "Previously recorded announcement rechecked; no later official formal-closing confirmation found in bounded review. No ownership update."
+    },
+    {
+      "company_id": "overdrive_libby",
+      "publication_date": "2026-10-13",
+      "url": "https://company.overdrive.com/2026/10/13/a-new-way-to-read-together-read-with-jenna-jr/",
+      "evidence_locator": "Opening paragraphs: Read With Jenna Jr. collection window November 16-December 31.",
+      "decision": "Future curated collection/programme, not new country availability, a measured adoption observation, revenue, or a subscriber base. No registry/quantitative change warranted."
+    },
+    {
+      "company_id": "overdrive_libby",
+      "publication_date": "2026-10-13",
+      "url": "https://company.overdrive.com/2026/10/13/the-luck-of-the-book-ish-using-our-lucky-day-feature-to-delight-readers-and-maximize-your-content/",
+      "evidence_locator": "Opening and Here are some important aspects of Lucky Day sections.",
+      "decision": "Library lending-configuration guidance for existing holdings; no new national or company metric. No quantitative change warranted."
+    },
+    {
+      "company_id": "hachette_livre",
+      "publication_date": "2026-10-15",
+      "url": "https://www.lagardere.com/wp-content/uploads/2026/10/261015_lag_pr_q32026_revenue_en.pdf",
+      "evidence_locator": "PDF printed p.4, Acquisition of Smith Street Books by Hachette Australia.",
+      "decision": "New quarterly report also confirms a subsidiary acquisition completed in August 2026. Can retain as optional company portfolio context; no additional company register row or national launch inferred."
+    }
+  ],
+  "remaining_review_result": "No other newly validated material availability, ownership or comparable book-specific financial observation found in the bounded release search. Routine catalogue listings, support edits, promotional campaigns, historic stock prices and old releases excluded."
+}

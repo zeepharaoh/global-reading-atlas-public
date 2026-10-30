@@ -1,0 +1,5 @@
+source_id,genre_original,genre_standard,mapping_status,notes
+booknet_ca,Mysteries or Thrillers,Crime and thriller,provisional,Preserve combined source category; do not split crime and thriller
+booknet_ca,Romance,Romance,provisional,Verify question denominator before using
+booknet_ca,Science Fiction,Science fiction,provisional,Verify question denominator before using
+booknet_ca,Fantasy,Fantasy,provisional,Verify question denominator before using

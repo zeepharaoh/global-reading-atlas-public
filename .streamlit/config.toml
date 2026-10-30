@@ -1,0 +1,22 @@
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+
+[server]
+address = "localhost"
+headless = true
+enableCORS = true
+enableXsrfProtection = true
+enableStaticServing = false
+
+[client]
+toolbarMode = "viewer"
+showErrorDetails = "none"
+
+[theme]
+base = "light"
+primaryColor = "#25658c"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f6f8"
+textColor = "#24333c"
+font = "sans-serif"

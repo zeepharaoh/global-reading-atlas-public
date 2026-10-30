@@ -1,0 +1,27 @@
+{
+  "reviewed_on": "2026-11-16",
+  "status": "Candidate review only; no observations imported",
+  "source_id": "bn_pl",
+  "observation_year": 2025,
+  "publication_date": "2026-04-07",
+  "source_url": "https://www.bn.org.pl/download/document/1775495746.pdf",
+  "release_url": "https://www.bn.org.pl/aktualnosci/6010-wskazniki-czytelnictwa-w-polsce-na-stabilnym-poziomie-najnowsze-badania-biblioteki-narodowej.html",
+  "report_vintage": "Stan czytelnictwa książek w Polsce w 2025 roku, communiqué",
+  "population": "Polish population age 15+; representative national CAPI survey, n=2,005",
+  "geography": "Poland",
+  "recall_period": "12 months before the survey",
+  "reading_result": {
+    "value": 41,
+    "unit": "Percent of respondents",
+    "evidence_locator": "Printed p.1, opening paragraph and annual reading chart"
+  },
+  "genre_scope": {
+    "evidence_locator": "Printed p.9 (PDF index 8), Typy książek czytanych w 2025 roku chart; methods on the following unnumbered page (PDF index 9)",
+    "denominator": "Readers, n=817",
+    "definition": "Types of books among up to five titles named by respondents who read in the previous 12 months. Respondents may mention several types. Format coverage is paper and digital, with no audiobook split.",
+    "unresolved": "Printed p.7 prose cites 14% for contemporary high-art literature; the corresponding chart on p.9 shows 11%. Verify the coding categories and preserve the table/prose discrepancy before importing genre percentages."
+  },
+  "decision": "Retain as a candidate for a later extraction review. The existing validated Polish rows and registry vintage are preserved. No inferred audiobook result.",
+  "follow_up_review": "data/curated/expansion_poland_20261116.json",
+  "follow_up_status": "Sixteen genre percentages accepted after visual verification. The conflicting literary category remains missing. The general reading percentage remains documented only."
+}

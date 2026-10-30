@@ -1,0 +1,30 @@
+{
+  "reviewed_at": "2026-10-08",
+  "current_observation_year": 2025,
+  "release_dates": {
+    "nordicom_se_2022": "2023-05-16",
+    "nordicom_se_2023": "2024-05-14",
+    "nordicom_se_2024": "2025-05-06",
+    "nordicom_se_2025": "2026-05-05",
+    "ssb_no_2025_latest_historical_table": "2026-05-12"
+  },
+  "same_columns_as": "data/curated/format_profiles.csv",
+  "sweden_audio_series": {
+    "2022": 14,
+    "2023": 15,
+    "2024": 15,
+    "2025": 15
+  },
+  "norway_audio_series": {
+    "2022": 9,
+    "2023": 8,
+    "2024": 8,
+    "2025": 8
+  },
+  "source_monitor_pages": [
+    "https://www.nordicom.gu.se/sv/fakta-och-analys/mediebarometern",
+    "https://www.ssb.no/kultur-og-fritid/tids-og-mediebruk/statistikk/norsk-mediebarometer"
+  ],
+  "ssb_audio_api_status": "No verified StatsBank table containing the audiobook-specific measure located. Generic lydmedier/audio-media API tables are a broader construct and must not substitute for audiobooks.",
+  "automatic_ingestion_rule": "Monitor source releases and compare document hashes. Annual summaries/tables can be parsed only when the measure, age base, period and explicit published percentages are recognized. Unknown schema or new versions require review before adding a year. Do not interpolate missing years, invent current-year data or turn source change into a validated observation."
+}

@@ -1,0 +1,345 @@
+{
+  "reviewed_on": "2026-11-09",
+  "review_window_start": "2026-11-02",
+  "review_window_end": "2026-11-09",
+  "scope": "Bounded official publisher, retailer, subscription and library platform release review. Earlier official disclosures were rechecked where they supported an inventory addition or clarified existing records.",
+  "company_registry_rows_added": 4,
+  "annual_industry_rows_added": 0,
+  "national_observations_added": 0,
+  "source_references_additions": {
+    "harpercollins": [
+      "https://newscorp.com/2026/11/04/news-corp-reports-first-quarter-results-for-fiscal-2027/",
+      "https://investors.newscorp.com/static-files/2942876d-6ced-4968-8ca4-ee03656079c6",
+      "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000250/nws-20260930.htm"
+    ],
+    "bastei_luebbe": [
+      "https://unternehmen.bastei-luebbe.de/en/news/details/n/1372399811-bastei-luebbe-on-track-with-improved-profitability-in-the-second-quarter-of-2026-2027",
+      "https://www.eqs-news.com/media/document/506eab7b-94cc-4ba8-95db-70635304ad70/assets/DE000A1X3YY0-Q2-2026-EQ-E-00.pdf",
+      "https://bastei-luebbe.de/unternehmen/investor-relations"
+    ],
+    "barnes_noble": [
+      "https://www.barnesandnobleinc.com/press-release/elliott-completes-acquisition-barnes-noble/",
+      "https://www.barnesandnobleinc.com/press-release/barnes-noble-adds-new-store-louisville-ky/",
+      "https://www.barnesandnoble.com/pages/audiobooks-subscription"
+    ],
+    "storytel_books": [
+      "https://storytelbooks.com/se/kopvillkor"
+    ],
+    "storytel_group": [
+      "https://www.storytelgroup.com/en/storytel-launches-online-bookstore-for-physical-books/"
+    ],
+    "divibib_onleihe": [
+      "https://company.overdrive.com/2026/08/11/overdrive-acquires-divibib-bringing-onleihe-libraries-onto-libby-through-partnership-with-ekz-group/"
+    ],
+    "overdrive_libby": [
+      "https://company.overdrive.com/2026/08/11/overdrive-acquires-divibib-bringing-onleihe-libraries-onto-libby-through-partnership-with-ekz-group/"
+    ],
+    "spotify": [
+      "https://www.spotify.com/ar/audiobooks/",
+      "https://www.spotify.com/br-pt/audiobooks/",
+      "https://www.spotify.com/cl/audiobooks/",
+      "https://www.spotify.com/co-es/audiobooks/",
+      "https://www.spotify.com/it/audiobooks/",
+      "https://www.spotify.com/mx/audiobooks/",
+      "https://www.spotify.com/no-nb/audiobooks/",
+      "https://www.spotify.com/pe/audiobooks/",
+      "https://www.spotify.com/pl/audiobooks/",
+      "https://www.spotify.com/es/audiobooks/"
+    ],
+    "audible": [
+      "https://www.audible.com/about/newsroom/audibles-read-and-listen-experience-comes-to-more-listeners-around-the-globe"
+    ]
+  },
+  "material_updates_additions": [
+    {
+      "company_id": "harpercollins",
+      "date": "2026-11-04",
+      "publication_date": "2026-11-04",
+      "category": "Quarterly publisher segment financial release",
+      "fact": "News Corp reported HarperCollins book publishing results for fiscal 2027 Q1. Physical and digital book sales contributed to growth. The digital growth figure spans formats.",
+      "url": "https://newscorp.com/2026/11/04/news-corp-reports-first-quarter-results-for-fiscal-2027/",
+      "attached_report_url": "https://investors.newscorp.com/static-files/2942876d-6ced-4968-8ca4-ee03656079c6",
+      "supporting_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000250/nws-20260930.htm",
+      "evidence_locator": "Form 8-K exhibit 99.1 printed p.2 Segment Review and p.4 Book Publishing; 5 November Form 10-Q printed p.31 Book Publishing.",
+      "period_start": "2026-07-01",
+      "period_end": "2026-09-30",
+      "prior_period_start": "2025-07-01",
+      "prior_period_end": "2025-09-30",
+      "report_vintage": "Fiscal 2027 Q1 release 4 November and corroborating 5 November 2026 Form 10-Q",
+      "geography": "International publishing segment operations",
+      "population": "News Corp Book Publishing segment, including HarperCollins",
+      "recall_period": "Not applicable; financial reporting quarters",
+      "format_scope": "Publisher revenue across formats; no standalone audiobook revenue or growth figure disclosed",
+      "period_metrics": [
+        {
+          "metric": "Reported segment revenue",
+          "value": 582,
+          "prior_period_value": 534,
+          "unit": "USD million",
+          "evidence_locator": "Form 10-Q printed p.31, Book Publishing table",
+          "scope": "News Corp international Book Publishing segment; company reporting across formats",
+          "reported_yoy_change_pct": 9
+        },
+        {
+          "metric": "Consumer revenue",
+          "value": 556,
+          "prior_period_value": 510,
+          "unit": "USD million",
+          "evidence_locator": "Form 10-Q printed p.31, Book Publishing table",
+          "scope": "Consumer category within Book Publishing; included in segment revenue"
+        },
+        {
+          "metric": "Other revenue",
+          "value": 26,
+          "prior_period_value": 24,
+          "unit": "USD million",
+          "evidence_locator": "Form 10-Q printed p.31, Book Publishing table",
+          "scope": "Other category within Book Publishing; included in segment revenue"
+        },
+        {
+          "metric": "Segment EBITDA",
+          "value": 75,
+          "prior_period_value": 58,
+          "unit": "USD million",
+          "evidence_locator": "Form 10-Q printed p.31, Book Publishing table",
+          "scope": "Book Publishing segment EBITDA, distinct from sales"
+        },
+        {
+          "metric": "Digital share of consumer revenue, rounded",
+          "value": 23,
+          "prior_period_value": 23,
+          "unit": "percent",
+          "evidence_locator": "Form 10-Q printed p.31, Book Publishing narrative following the table",
+          "scope": "Digital sales across formats divided by consumer revenue"
+        },
+        {
+          "metric": "Reported digital sales growth year on year",
+          "value": 6,
+          "unit": "percent",
+          "evidence_locator": "Form 10-Q printed p.31, Book Publishing narrative following the table",
+          "scope": "Mixed digital sales. The report attributes the increase to audiobooks without quantifying their growth."
+        }
+      ],
+      "status": "Company context only; excluded from annual country industry and audience series",
+      "reviewed_on": "2026-11-09"
+    },
+    {
+      "company_id": "bastei_luebbe",
+      "date": "2026-11-05",
+      "publication_date": "2026-11-05",
+      "category": "Publisher inventory addition and interim financial release",
+      "fact": "Bastei Lübbe publishes print, ebooks and audiobooks. The interim report discloses Group and Book segment external revenue for the half year and second quarter.",
+      "url": "https://unternehmen.bastei-luebbe.de/en/news/details/n/1372399811-bastei-luebbe-on-track-with-improved-profitability-in-the-second-quarter-of-2026-2027",
+      "attached_report_url": "https://www.eqs-news.com/media/document/506eab7b-94cc-4ba8-95db-70635304ad70/assets/DE000A1X3YY0-Q2-2026-EQ-E-00.pdf",
+      "evidence_locator": "Interim PDF printed pp.9 and 10 income statements; p.14 both Group Segment Report tables and scope footnotes; p.15 General Disclosures and Basis of Preparation.",
+      "report_vintage": "2026/27 half-year interim report issued 5 November 2026",
+      "geography": "Germany based corporate group, including Czech operations",
+      "population": "Consolidated Bastei Lübbe Group and its Book segment",
+      "recall_period": "Not applicable; financial reporting periods",
+      "format_scope": "Book segment spans formats. Published digital share covers mixed products. Standalone format revenue is unavailable in this report.",
+      "period_metrics": [
+        {
+          "metric": "Group external revenue",
+          "value": 55153,
+          "prior_period_value": 56996,
+          "unit": "EUR thousand",
+          "evidence_locator": "Interim PDF printed p.14, Group Segment Report, External revenues row",
+          "scope": "Consolidated group, all formats and segments",
+          "period": "H1 FY2026/27",
+          "period_start": "2026-04-01",
+          "period_end": "2026-09-30",
+          "prior_period_start": "2025-04-01",
+          "prior_period_end": "2025-09-30"
+        },
+        {
+          "metric": "Book segment external revenue",
+          "value": 51610,
+          "prior_period_value": 53417,
+          "unit": "EUR thousand",
+          "evidence_locator": "Interim PDF printed p.14, Group Segment Report, External revenues row",
+          "scope": "Included in group external revenue; Book segment spans formats",
+          "period": "H1 FY2026/27",
+          "period_start": "2026-04-01",
+          "period_end": "2026-09-30",
+          "prior_period_start": "2025-04-01",
+          "prior_period_end": "2025-09-30"
+        },
+        {
+          "metric": "Group external revenue",
+          "value": 30577,
+          "prior_period_value": 34021,
+          "unit": "EUR thousand",
+          "evidence_locator": "Interim PDF printed p.14, Group Segment Report, External revenues row",
+          "scope": "Consolidated group, all formats and segments",
+          "period": "Q2 FY2026/27",
+          "period_start": "2026-07-01",
+          "period_end": "2026-09-30",
+          "prior_period_start": "2025-07-01",
+          "prior_period_end": "2025-09-30"
+        },
+        {
+          "metric": "Book segment external revenue",
+          "value": 28749,
+          "prior_period_value": 32043,
+          "unit": "EUR thousand",
+          "evidence_locator": "Interim PDF printed p.14, Group Segment Report, External revenues row",
+          "scope": "Included in group external revenue; Book segment spans formats",
+          "period": "Q2 FY2026/27",
+          "period_start": "2026-07-01",
+          "period_end": "2026-09-30",
+          "prior_period_start": "2025-07-01",
+          "prior_period_end": "2025-09-30"
+        }
+      ],
+      "metric_notes": [
+        "Prior columns in both reports exclude Siebter Himmel. Preserve the reported figures and their scope without calculating a like-for-like growth rate.",
+        "Group revenue already includes the Book segment. Internal revenue is excluded from these figures.",
+        "Financial statements are unaudited. The full-year forecast is excluded."
+      ],
+      "status": "Company context only; excluded from annual country industry and audience series",
+      "reviewed_on": "2026-11-09"
+    },
+    {
+      "company_id": "barnes_noble",
+      "date": "2026-11-09",
+      "category": "Retailer inventory addition",
+      "fact": "Barnes & Noble operates US physical bookstores and NOOK Digital, which sells ebooks and offers an audiobook subscription.",
+      "url": "https://www.barnesandnobleinc.com/about-bn/",
+      "supporting_url": "https://www.barnesandnobleinc.com/press-release/elliott-completes-acquisition-barnes-noble/",
+      "evidence_locator": "Corporate About B&N introduction and Barnes & Noble Education footnote; Elliott closing announcement first and second paragraphs.",
+      "status": "Company profile reviewed. Retail locations, online digital subscriptions and shared ownership with Waterstones have distinct scopes.",
+      "reviewed_on": "2026-11-09"
+    },
+    {
+      "company_id": "storytel_books",
+      "date": "2026-10-01",
+      "publication_date": "2026-10-01",
+      "category": "Retail brand inventory addition",
+      "fact": "Storytel launched a Swedish physical book storefront operated by Storytel Sweden AB on 1 October 2026.",
+      "url": "https://www.storytelgroup.com/en/storytel-launches-online-bookstore-for-physical-books/",
+      "supporting_url": "https://storytelbooks.com/se/kopvillkor",
+      "evidence_locator": "Dated launch release, opening paragraph; storefront purchase terms, opening paragraph and Delivery section.",
+      "status": "The earlier Q3 report reference is corroborated by the dated release and the storefront purchase terms. Brand overlaps with Storytel Group. No retail revenue or unit sales released.",
+      "reviewed_on": "2026-11-09"
+    },
+    {
+      "company_id": "divibib_onleihe",
+      "date": "2026-08-11",
+      "publication_date": "2026-08-11",
+      "category": "Library platform inventory addition and ownership",
+      "fact": "OverDrive announced it had acquired divibib, operator of Onleihe, from ekz.bibliotheksservice. Onleihe libraries retain access during the planned migration to Libby.",
+      "url": "https://company.overdrive.com/2026/08/11/overdrive-acquires-divibib-bringing-onleihe-libraries-onto-libby-through-partnership-with-ekz-group/",
+      "evidence_locator": "Dated announcement opening three paragraphs; transition paragraph; About divibib / ekz Group.",
+      "status": "Prior announcement newly reviewed. Brand overlaps with OverDrive. Migration completion remains unverified. Reported 2025 Libby checkouts cover mixed digital lending across DACH and cannot be assigned to Onleihe or a single format or country.",
+      "reviewed_on": "2026-11-09"
+    },
+    {
+      "company_id": "spotify",
+      "date": "2026-11-09",
+      "category": "Audiobook storefront availability review",
+      "fact": "Ten country storefronts document an audiobook offer. Nine advertise included listening for eligible Premium plans and Audiobooks+; Argentina advertises Audiobooks+ as a paid add-on.",
+      "url": "https://newsroom.spotify.com/2026-10-07/audiobooks-global-expansion/",
+      "storefront_urls": {
+        "Argentina": "https://www.spotify.com/ar/audiobooks/",
+        "Brazil": "https://www.spotify.com/br-pt/audiobooks/",
+        "Chile": "https://www.spotify.com/cl/audiobooks/",
+        "Colombia": "https://www.spotify.com/co-es/audiobooks/",
+        "Italy": "https://www.spotify.com/it/audiobooks/",
+        "Mexico": "https://www.spotify.com/mx/audiobooks/",
+        "Norway": "https://www.spotify.com/no-nb/audiobooks/",
+        "Peru": "https://www.spotify.com/pe/audiobooks/",
+        "Poland": "https://www.spotify.com/pl/audiobooks/",
+        "Spain": "https://www.spotify.com/es/audiobooks/"
+      },
+      "evidence_locator": "Each storefront heading, Premium eligibility and Audiobooks+ offer sections. October newsroom release, Multiple ways in section.",
+      "status": "Snapshot of official storefronts observed 9 November 2026. The exact launch dates, all-market rollout completion and customer use are unverified.",
+      "reviewed_on": "2026-11-09"
+    },
+    {
+      "company_id": "audible",
+      "date": "2026-10-26",
+      "publication_date": "2026-10-26",
+      "category": "Rollout of cross-format features",
+      "fact": "Audible said it was rolling out immersion reading to seven existing marketplaces and expanding Page Sync to three.",
+      "url": "https://www.audible.com/about/newsroom/audibles-read-and-listen-experience-comes-to-more-listeners-around-the-globe",
+      "evidence_locator": "Immersion reading expanding to seven new marketplaces; Page Sync expanding to three new marketplaces.",
+      "immersion_reading_rollout": [
+        "Canada",
+        "India",
+        "France",
+        "Italy",
+        "Spain",
+        "Japan",
+        "Brazil"
+      ],
+      "page_sync_rollout": [
+        "United Kingdom",
+        "Germany",
+        "Australia"
+      ],
+      "status": "Existing-market feature rollout. Per-account activation and customer adoption were not measured.",
+      "reviewed_on": "2026-11-09"
+    }
+  ],
+  "other_release_reviews": [
+    {
+      "company_id": "nextory",
+      "reviewed_on": "2026-11-09",
+      "url": "https://www.konkurrensverket.se/diarium/sok-i-Konkurrensverkets-diarium/arendedata/?caseNumber=697%2F2026",
+      "evidence_locator": "Case 697/2026 Status and Beslutsdatum fields.",
+      "case_status_original": "Pågående",
+      "decision_date": null,
+      "decision": "Ongoing, with no decision date. Keep parent ownership unassigned."
+    },
+    {
+      "company_id": "barnes_noble",
+      "publication_date_as_printed": "2026-11-04",
+      "archive_listing_date": "2026-11-06",
+      "scheduled_opening_date": "2026-11-11",
+      "url": "https://www.barnesandnobleinc.com/press-release/barnes-noble-adds-new-store-louisville-ky/",
+      "evidence_locator": "Release date line, opening paragraph, expansion paragraph and About Barnes & Noble.",
+      "decision": "Opening remains scheduled as of review. The body says over 735 stores and the About section says more than 740. Keep the verified retail footprint qualitative."
+    },
+    {
+      "company_id": "overdrive_libby",
+      "publication_date": "2026-11-03",
+      "url": "https://company.overdrive.com/2026/11/03/november-monthly-essentials/",
+      "evidence_locator": "Opening and featured title entries.",
+      "decision": "Curated catalogue selections with no measured new lending or adoption figure."
+    },
+    {
+      "company_id": "rakuten_kobo",
+      "url": "https://www.kobo.com/blog/new-releases-in-books-and-audiobooks",
+      "evidence_locator": "Weekly new releases listing for 3 to 9 November.",
+      "decision": "Selected catalogue titles. No sales, audience or genre prevalence measure."
+    },
+    {
+      "company_id": "apple_books",
+      "publication_date": "2026-11-02",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "evidence_locator": "Linked financial statements, p. 1, net sales by category, Services row.",
+      "decision": "Combined Services figure only. No standalone books or audiobook value."
+    },
+    {
+      "company_id": "hachette_livre",
+      "publication_date": "2026-11-09",
+      "url": "https://www.lagardere.com/en/press-release/hachette-livre-announces-the-appointment-of-lise-boell-as-deputy-ceo-of-editions-grasset-reporting-to-jean-christophe-thiery/",
+      "evidence_locator": "Fayard revenue reference in the leadership announcement.",
+      "decision": "Imprecise start of comparison period and no format breakdown. Exclude from company and country series."
+    },
+    {
+      "company_id": "mofibo",
+      "publication_date": "2026-11-04",
+      "url": "https://press.mofibo.com/post/oktobers-mest-lyttede-og-laeste-titler-pa-mofibo",
+      "evidence_locator": "October audiobook and ebook top-ten lists.",
+      "decision": "Platform title rankings have no disclosed unit, counts or genre denominator."
+    },
+    {
+      "company_id": "libro_fm",
+      "publication_date": "2026-11-09",
+      "url": "https://blog.libro.fm/top-audiobooks-2026/",
+      "evidence_locator": "Year-to-date title list and introductory company description.",
+      "decision": "Title ranks omit the exact cutoff and counts. More than 5,000 bookshop partners is a company footprint, separate from audience and subscribers."
+    }
+  ]
+}

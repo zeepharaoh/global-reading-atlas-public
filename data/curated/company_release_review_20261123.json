@@ -1,0 +1,120 @@
+{
+  "reviewed_on": "2026-11-23",
+  "review_window_start": "2026-11-21",
+  "review_window_end": "2026-11-23",
+  "scope": "Bounded official company and library release review for 21 to 23 November 2026, with two earlier Kobo disclosures newly reviewed to clarify subscription geography and ebook-only library integration. Search absence is not proof of no company changes.",
+  "company_registry_rows_added": 0,
+  "company_registry_ids_added": [],
+  "company_registry_ids_updated": [
+    "rakuten_kobo"
+  ],
+  "company_registry_row_count": 29,
+  "annual_industry_rows_added": 0,
+  "national_observations_added": 0,
+  "numeric_observations_added": 0,
+  "source_references_additions": {
+    "rakuten_kobo": [
+      "https://www.kobo.com/news/media-alert-rakuten-kobo-expands-kobo-plus-unlimited-reading-subscription-service-to-cyprus-malta-and-slovakia",
+      "https://www.kobo.com/news/rakuten-kobo-expands-library-borrowing-experience-with-new-cloudlibrary-partnership"
+    ]
+  },
+  "material_updates_additions": [
+    {
+      "company_id": "rakuten_kobo",
+      "reviewed_on": "2026-11-23",
+      "date": "2026-11-11",
+      "publication_date": "2026-11-11",
+      "effective_date": "2026-11-11",
+      "category": "Earlier company-announced subscription launch newly reviewed",
+      "fact": "Kobo announced the launch of Kobo Plus ebook, audiobook and combined subscription plans in Cyprus, Malta and Slovakia, effective on the release date.",
+      "url": "https://www.kobo.com/news/media-alert-rakuten-kobo-expands-kobo-plus-unlimited-reading-subscription-service-to-cyprus-malta-and-slovakia",
+      "evidence_locator": "Dated heading; opening paragraph beginning November 11, 2026 and its Starting today statement; Subscription Options and Access, three plan bullets.",
+      "report_vintage": "Kobo media alert published 11 November 2026; newly reviewed 23 November 2026",
+      "geography": "Cyprus, Malta and Slovakia; company-announced Kobo Plus availability, not a complete international footprint",
+      "population": "Consumers eligible to subscribe to Kobo Plus in the named territories; no surveyed listener population",
+      "format_scope": "Separate ebook, audiobook and combined subscription plans",
+      "unit": "Not applicable; qualitative service availability",
+      "recall_period": "Not applicable; dated company launch disclosure",
+      "quantitative_status": "No revenue, subscribers, listeners, catalogue counts, prices or national observations added.",
+      "status": "Earlier release newly reviewed. This is a company-announced effective launch, not a new 21 to 23 November announcement, a listener reach estimate or independently verified ongoing storefront availability. Territory and title restrictions remain separate."
+    },
+    {
+      "company_id": "rakuten_kobo",
+      "reviewed_on": "2026-11-23",
+      "date": "2026-11-12",
+      "publication_date": "2026-11-12",
+      "category": "Earlier ebook library integration newly reviewed",
+      "fact": "Kobo announced a CloudLibrary partnership allowing participating library users to borrow ebooks in CloudLibrary and read them on Kobo eReaders, alongside its existing Libby integration.",
+      "url": "https://www.kobo.com/news/rakuten-kobo-expands-library-borrowing-experience-with-new-cloudlibrary-partnership",
+      "evidence_locator": "Dated heading and opening paragraph; Kobo's Beloved Library Experience Now Better than Ever for All Readers, first two paragraphs and OCLC quotation; paragraph on existing Libby integration.",
+      "report_vintage": "Kobo news release published 12 November 2026; newly reviewed 23 November 2026",
+      "geography": "Participating CloudLibrary and Kobo eReader users; release does not publish a country availability list",
+      "population": "Library patrons with participating CloudLibrary services and compatible Kobo eReaders; no sampled reader population",
+      "format_scope": "Borrowed ebooks on eReaders; no audiobook integration established",
+      "unit": "Not applicable; qualitative library service integration",
+      "recall_period": "Not applicable; dated company service disclosure",
+      "quantitative_status": "No loans, library users, revenue, catalogue counts or national observations added.",
+      "status": "Earlier release newly reviewed. Kobo, CloudLibrary/OCLC and Libby/OverDrive describe overlapping partner services, not additive independent readership. No audiobook availability or full geographic footprint was inferred."
+    }
+  ],
+  "previous_company_registry_rows": {
+    "rakuten_kobo": {
+      "company_id": "rakuten_kobo",
+      "company": "Rakuten Kobo",
+      "parent_company": "Rakuten Group, Inc.",
+      "formats": "Ebook; Audiobook",
+      "business_model": "Digital book retail; Kobo Plus subscription in eligible markets; reading devices",
+      "geographic_scope": "International digital retail; audiobook and Kobo Plus eligibility varies by country",
+      "public_data_status": "Public reporting documented",
+      "source_url": "https://global.rakuten.com/corp/investors/assets/doc/documents/ar_2024_all.pdf",
+      "reviewed_on": "2026-10-08",
+      "notes": "Rakuten parent reporting documents the Kobo business. Reading devices are not print book consumption. Kobo-specific subscriber or format revenue metrics were not extracted."
+    }
+  },
+  "other_release_reviews": [
+    {
+      "company_id": "rakuten_kobo",
+      "url": "https://www.kobo.com/news/rakuten-kobo-2026-book-report-hockey-boyfriends-trad-wives-classics-and-the-end-of-the-world",
+      "publication_date": "2026-11-10",
+      "evidence_locator": "The Reading Trends That Defined 2026; Regional Highlights; Looking Ahead: The 2027 Kobo Reading Forecast.",
+      "decision": "Qualitative platform reading trends. A precise measurement cutoff, method and eligible user base are unpublished; format-specific national genre percentages and 2027 forecasts are not imported."
+    },
+    {
+      "company_id": "nextory",
+      "url": "https://www.konkurrensverket.se/konkurrens/tillsyn-arenden-och-beslut/arendelista/bonnier-books-group-holding-ab-och-nextory-ab/",
+      "evidence_locator": "Konkurrensverkets beslut dated 10 November 2026; Status: Pågående; deadline paragraph.",
+      "decision": "Special investigation remains ongoing, deadline 24 March 2027. The previous pending acquisition classification and blank controlling parent are retained; no clearance or completed ownership transfer inferred."
+    },
+    {
+      "company_id": "spotify",
+      "url": "https://newsroom.spotify.com/",
+      "evidence_locator": "Latest dated news cards, 20 November to 18 November 2026.",
+      "decision": "Latest card is a music and game feature. Audiobook creation tools release remains 18 November and already reviewed. No new 21 to 23 November audiobook observation located."
+    },
+    {
+      "company_id": "overdrive_libby",
+      "url": "https://company.overdrive.com/blogs/library-blog/",
+      "evidence_locator": "Latest dated article listing, 20 November 2026 Podium LitRPG promotion, then 17 November independent press curation.",
+      "decision": "Collection promotion is not measured usage, loans or genre preference. No numerical extract accepted."
+    },
+    {
+      "company_id": "penguin_random_house",
+      "url": "https://www.bertelsmann.com/en/media/news/",
+      "evidence_locator": "Latest dated release listing, 19 November logistics acquisition, 18 November literary event and 17 November nine-month results.",
+      "decision": "No new comparable publishing or audiobook figures located in the dated listing. Existing 17 November group-versus-PRH scope separation retained."
+    },
+    {
+      "company_id": "bokusgruppen",
+      "url": "https://www.bokusgruppen.com/media/pressmeddelanden/",
+      "evidence_locator": "Top dated listing, 12 November nomination committee; 22 October Q3 report.",
+      "decision": "No new quantitative book or audiobook release located. Existing group/segment overlap and non-book activity distinction retained."
+    }
+  ],
+  "retrieval_limits": [
+    "Three bounded official-domain searches returned catalogue pages or no results; this does not establish exhaustive release coverage.",
+    "Storytel official newsroom and press archive rendered headings and filters but omitted the dynamically loaded release list. No unchanged-release claim is based on that partial content.",
+    "Two final Storytel and BookBeat follow-up searches were not executed because the Firecrawl connected account reported exhausted credits. No quota retry was attempted.",
+    "All three referenced Kobo primary pages and the Nextory case page were retrieved live with maxAge 0 and HTTP 200 before the credit limit. No missing source was replaced with a fabricated observation.",
+    "A subsequent independent web and direct HTTP recheck of the CloudLibrary release returned inaccessible content and HTTP 403. The initial successful live primary Firecrawl retrieval (HTTP 200, scrape ID 01a2079d-e2ea-7031-ac89-517aca46da03) is retained as the extraction evidence; this later failure was not treated as withdrawal or a new observation."
+  ]
+}

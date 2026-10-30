@@ -1,0 +1,108 @@
+{
+  "checked_on": "2026-10-12",
+  "scope": "Bounded primary-source review since 2026-10-08; current source register and curated metadata inspected",
+  "new_post_review_observation_releases_found": 0,
+  "findings": [
+    {
+      "source_id": "apa_us_sales",
+      "status": "Current reviewed annual figures unchanged",
+      "observation_year": 2025,
+      "publication_date": "2026-06-05",
+      "source_url": "https://www.audiopub.org/surveys",
+      "evidence_locator": "Dated opening Sales Survey paragraph: 2025 revenue $2.43 billion; official /press-1 latest survey press release June 5, 2026",
+      "new_release_since_2026_10_08": false,
+      "notes": "October member webinar describes the same 2025 Sales/2026 Consumer surveys, not a new observation."
+    },
+    {
+      "source_id": "aap_us_annual",
+      "status": "Current reviewed annual figures unchanged",
+      "observation_year": 2025,
+      "publication_date": "2026-08-10",
+      "source_url": "https://publishers.org/news/aap-statshot-annual-report-publishing-revenues-totaled-33-4-billion-for-calendar-year-2025/",
+      "evidence_locator": "Opening annual paragraph $33.4B in 2025/$32.5B in 2024; Methodology retains five-year restatement explanation",
+      "new_release_since_2026_10_08": false,
+      "notes": "News archive latest entry October 7, 2026 is an award; latest displayed StatShot monthly release is September 22, 2026 for July. Monthly/YTD data cannot fill full annual 2026."
+    },
+    {
+      "source_id": "uk_pa_industry",
+      "status": "Current reviewed annual figures unchanged",
+      "observation_year": 2025,
+      "publication_date": "2026-06-03",
+      "source_url": "https://www.publishers.org.uk/publishing-reaches-highest-ever-revenue-in-2025/",
+      "evidence_locator": "Consumer publishing section: Print £2.1B; Digital audiobooks £255M; latest news archive item dated October 1, 2026",
+      "new_release_since_2026_10_08": false,
+      "notes": "Retain as-published vintage break; no growth derived from original 2024 £268M and 2025 £255M."
+    },
+    {
+      "source_id": "nordicom_se",
+      "status": "Current 2025 daily book-format figures unchanged",
+      "observation_year": 2025,
+      "publication_date": "2026-05-05",
+      "source_url": "https://www.nordicom.gu.se/sv/aktuellt/nyheter/youtube-bilradio-och-skonlitteratur-sa-tog-svenskarna-del-av-medier-2025",
+      "evidence_locator": "Official May 5, 2026 annual summary; section Ungefär hälften av befolkningen tog del av en bok; format paragraph: print 37%, audiobook 15%, ebook 7%; age 9–85 and average-day population scope in introduction",
+      "new_release_since_2026_10_08": false,
+      "notes": "Latest Mediebarometer remains 2025; current prose agrees with cached 2025 observations. Correct monitor URL /sv/fakta-analys/mediebarometern works; /fakta-och-analys/ variant fails."
+    },
+    {
+      "source_id": "ssb_no",
+      "status": "Current explicit audiobook table and latest formats unchanged",
+      "observation_year": 2025,
+      "publication_date": "2026-05-12",
+      "source_url": "https://www.ssb.no/kultur-og-fritid/tids-og-mediebruk/artikler/norsk-mediebarometer-2025/_/attachment/inline/8bfa8894-3fe9-43a3-b7c2-b24683ec1dfa:93fc3e697678bd0431a89fbb6b58ac561c892e9b/SA183-web.pdf",
+      "evidence_locator": "PDF printed p.2: published/corrected May 12, 2026; printed p.111 (index110), Table 11.4 Lydbok historical rows 2022/2023/2024/2025: 9/8/8/8%; statistics landing Table2 2025 print 26%/ebook 5%",
+      "new_release_since_2026_10_08": false,
+      "notes": "Whole-population daily reach, age 9+. Broader Lydmedier 63% is not an audiobook measure. The API refresh confirms print/ebook API observations unchanged."
+    },
+    {
+      "source_id": "booknet_ca",
+      "status": "Earlier 2025 release verified and added, with2024baseline preserved",
+      "observation_year": 2025,
+      "publication_date": "2026-05-05",
+      "source_url": "https://booknetcanada.ca/wp-content/uploads/2026/06/CanadianLeisureandReading2025.pdf",
+      "evidence_locator": "Methods p.4; formats p.25; fiction p.35; nonfiction p.37; release dateline and research archive May 5,2026",
+      "new_release_since_2026_10_08": false,
+      "notes": "Three format rows and 60 standalone genre rows added to the reviewed history tables; add to history and preserve 2024 baselines. Monitor /research-archive/ because /research/ redirects to an unrelated AI study."
+    },
+    {
+      "source_id": "nlb_sg",
+      "status": "No newer adult reading-habits release found in bounded review",
+      "observation_year": 2024,
+      "publication_date": null,
+      "source_url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Research-and-Studies/NRHS-2024-Adults-20250619_full-report_for_publication.pdf",
+      "evidence_locator": "Current official report search/index identifies same NRHS 2024 adult report; official 2024 adult infographic still shows75/55/14% book formats",
+      "new_release_since_2026_10_08": false,
+      "notes": "Research listing body does not expose all report links in web extraction; no byte-level PDF comparison performed in this bounded review. Do not invent a 2025/2026 wave."
+    },
+    {
+      "source_id": "eurostat",
+      "status": "No newer observation year in current dataset information",
+      "observation_year": 2022,
+      "publication_date": null,
+      "source_url": "https://ec.europa.eu/eurostat/databrowser/product/page/ILC_SCP27",
+      "evidence_locator": "Official dataset search-index Additional Information: coverage 2022–2022, last data update 24/04/2026 21:00; German default table corroborates",
+      "new_release_since_2026_10_08": false,
+      "notes": "Web API fetch returns Internal Error and product-page body may be empty; the refresh pipeline recorded an unchanged API observation comparison. Dataset values not independently downloaded in this bounded review."
+    },
+    {
+      "source_id": "pew_us",
+      "status": "All current chart values match cached input",
+      "observation_year": 2025,
+      "publication_date": "2026-04-09",
+      "source_url": "https://www.pewresearch.org/chart/print-books-still-dominate-in-the-u-s-but-use-of-e-books-and-audiobooks-has-grown-over-the-past-decade/",
+      "evidence_locator": "Chart Data table: nine waves 2011–2025; 2025 print 64/ebook 31/audio 26%; note: October 6–16,2025 fieldwork, phone 2011–2021 vs web/phone 2025",
+      "new_release_since_2026_10_08": false,
+      "notes": "All 27 cached values programmatically reconciled to current primary table. No 2026 observation added. Partial books included and survey mode break retained."
+    },
+    {
+      "source_id": "storytel_story_report_2026",
+      "status": "Canonical PDF unchanged; cryptographic comparison verified",
+      "observation_year": 2026,
+      "publication_date": "2026-06-24",
+      "source_url": "https://www.storytelgroup.com/en/new-report-from-storytel-reveals-link-between-strong-reading-habits-and-better-wellbeing/",
+      "evidence_locator": "Release dateline June 24,2026; About the Story Report paragraph: April 2026 fieldwork, 5077 panel respondents, five markets, age18–79",
+      "new_release_since_2026_10_08": false,
+      "notes": "Canonical report SHA256 matches the prior reviewed report. Newsroom page changes do not create new genre or listening observations.",
+      "pdf_sha256": "2436824d2c59a26557d677522dba24e2a289bfef4ba8713de9974ee00e3e07e6"
+    }
+  ]
+}

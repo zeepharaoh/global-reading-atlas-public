@@ -1,0 +1,118 @@
+{
+  "reviewed_on": "2026-11-16",
+  "review_window_start": "2026-11-10",
+  "review_window_end": "2026-11-16",
+  "scope": "Bounded official company, publisher and library platform release review against the existing register. Catalogue and qualitative corporate releases are recorded with their own definitions and dates.",
+  "company_registry_rows_added": 0,
+  "annual_industry_rows_added": 0,
+  "national_observations_added": 0,
+  "numeric_observations_added": 0,
+  "source_references_additions": {
+    "spotify": [
+      "https://newsroom.spotify.com/2026-11-10/scholastic-audiobooks-in-premium/"
+    ],
+    "scholastic": [
+      "https://newsroom.spotify.com/2026-11-10/scholastic-audiobooks-in-premium/"
+    ],
+    "rakuten_kobo": [
+      "https://global.rakuten.com/corp/news/press/2026/1113_01.html",
+      "https://global.rakuten.com/corp/investors/assets/doc/documents/26Q3PPT_E.pdf"
+    ]
+  },
+  "material_updates_additions": [
+    {
+      "company_id": "spotify",
+      "related_company_id": "scholastic",
+      "date": "2026-11-10",
+      "publication_date": "2026-11-10",
+      "effective_date": "2026-11-10",
+      "category": "Audiobook catalogue licensing in existing Premium markets",
+      "fact": "Spotify announced that eligible Premium subscribers in six existing audiobook markets could access Scholastic US kids and family audiobooks through their monthly listening allowance from 10 November 2026.",
+      "url": "https://newsroom.spotify.com/2026-11-10/scholastic-audiobooks-in-premium/",
+      "evidence_locator": "Dated release opening paragraph, paragraph beginning Starting today and paragraph beginning Since launching Audiobooks in Premium.",
+      "report_vintage": "Spotify newsroom release dated 10 November 2026",
+      "geography": "United States; United Kingdom; Canada; Australia; New Zealand; Ireland",
+      "population": "Eligible Premium plans in the six listed markets; publisher catalogue availability within the monthly allowance",
+      "recall_period": "Not applicable; service availability announcement",
+      "format_scope": "Scholastic US audiobooks in the Premium catalogue",
+      "status": "Qualitative company evidence reviewed. Access terms and catalogue rights vary by territory. These markets already offered Audiobooks in Premium.",
+      "quantitative_status": "No listener, borrower, subscriber, revenue or national observation added. The release gives an overall title catalogue count without a country breakdown or counting definition.",
+      "reviewed_on": "2026-11-16"
+    },
+    {
+      "company_id": "rakuten_kobo",
+      "date": "2026-11-13",
+      "publication_date": "2026-11-13",
+      "category": "Qualitative quarterly business update",
+      "fact": "Rakuten reported that Kobo revenue and profit increased in the third quarter, citing subscriber growth and strategic device price revisions.",
+      "url": "https://global.rakuten.com/corp/news/press/2026/1113_01.html",
+      "attached_report_url": "https://global.rakuten.com/corp/investors/assets/doc/documents/26Q3PPT_E.pdf",
+      "evidence_locator": "Internet Services Segment, International business unit paragraph; appendix printed p.3 Executive Summary and pp.37–38 International Business Unit revenue and operating income commentary.",
+      "report_vintage": "Rakuten Group Q3 FY2026 results released 13 November 2026",
+      "period_start": "2026-07-01",
+      "period_end": "2026-09-30",
+      "geography": "International Kobo business within Rakuten Group reporting",
+      "population": "Rakuten Kobo business including subscriptions and reading devices",
+      "recall_period": "Not applicable; quarterly corporate reporting",
+      "format_scope": "Mixed Kobo business spanning digital books, subscriptions and devices",
+      "status": "Qualitative business commentary reviewed. The cited revenue tables report a broader international business unit and combine multiple businesses.",
+      "quantitative_status": "No Kobo revenue, subscriber count or standalone audiobook value added.",
+      "reviewed_on": "2026-11-16"
+    }
+  ],
+  "other_release_reviews": [
+    {
+      "company_id": "nextory",
+      "reviewed_on": "2026-11-16",
+      "url": "https://www.konkurrensverket.se/diarium/sok-i-Konkurrensverkets-diarium/arendedata/?caseNumber=697%2F2026",
+      "evidence_locator": "Case 697/2026 Status and Beslutsdatum fields.",
+      "case_status_original": "Pågående",
+      "decision_date": null,
+      "decision": "Ongoing status and no decision date. Retain the existing pending ownership description."
+    },
+    {
+      "company_id": "overdrive_libby",
+      "publication_date": "2026-11-10",
+      "reviewed_on": "2026-11-16",
+      "url": "https://company.overdrive.com/2026/11/10/shop-once-exclusive-audiobooks-and-ebooks-in-marketplace/",
+      "evidence_locator": "Opening section, first three Harry Potter full cast audiobook releases on 1 December 2026, subsequent title release dates and preorder paragraph.",
+      "planned_first_availability_date": "2026-12-01",
+      "geography": "Public libraries covered by the announced US and UK editions; complete territorial licensing footprint unspecified",
+      "population": "Library catalogue licences and future eligible patron access",
+      "recall_period": "Not applicable; future catalogue release schedule",
+      "decision": "Prospective catalogue access and current preorders. No measured loans, audience or revenue observation added."
+    },
+    {
+      "company_id": "storytel_group",
+      "reviewed_on": "2026-11-16",
+      "url": "https://www.storytelgroup.com/en/newsroom/press-releases/",
+      "evidence_locator": "Latest dated release entries and the 27 October 2026 Q3 release.",
+      "decision": "The latest reviewed financial report remains Q3. Share repurchases do not provide book business or audience observations."
+    },
+    {
+      "company_id": "bookbeat",
+      "publication_date": "2026-11-02",
+      "reviewed_on": "2026-11-16",
+      "url": "https://www.mynewsdesk.com/de/bookbeat-deutschland/pressreleases/bookbeat-gruppe-waechst-um-13-prozent-besonders-starke-dynamik-auf-dem-deutschen-markt-3475554",
+      "evidence_locator": "Opening three-quarter performance paragraph.",
+      "decision": "German release repeats the previously reviewed 26 October quarterly results. No additional period added."
+    },
+    {
+      "company_id": "penguin_random_house",
+      "reviewed_on": "2026-11-16",
+      "url": "https://www.bertelsmann.com/en/investor-relations/financial-calendar/",
+      "evidence_locator": "Results for the first nine months 2026 entry.",
+      "scheduled_release_date": "2026-11-17",
+      "decision": "Future reporting date. No result inferred."
+    },
+    {
+      "company_id": "ximalaya",
+      "publication_date": "2026-10-13",
+      "reviewed_on": "2026-11-16",
+      "url": "https://ir.tencentmusic.com/2026-10-13-Tencent-Music-Entertainment-Group-to-Report-Third-Quarter-2026-Financial-Results-on-November-17%2C-2026",
+      "evidence_locator": "Opening paragraph announcing third quarter reporting date.",
+      "scheduled_release_date": "2026-11-17",
+      "decision": "Future reporting date. No result or audiobook measure inferred."
+    }
+  ]
+}

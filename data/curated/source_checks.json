@@ -1,0 +1,26 @@
+[
+  {
+    "source_id": "booknet_ca",
+    "url": "https://booknetcanada.ca/wp-content/uploads/2025/11/CanadianLeisureandReading2024.pdf",
+    "sha256": "17c7458bc7925ae1faf268704cd4a18a5b2d212cb1575005a42497624e163de2",
+    "cached_in_git": false,
+    "reviewed_on": "2026-10-08",
+    "tables_checked": [
+      "Format table and adult-fiction discrepancy",
+      "Fiction genres p.32",
+      "Non-fiction subjects p.33"
+    ]
+  },
+  {
+    "source_id": "nlb_sg",
+    "url": "https://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Research-and-Studies/NRHS-2024-Adults-20250619_full-report_for_publication.pdf",
+    "sha256": "e212e03fb5bc348075cadd3dcf8fc835f59dfdbe5425f4a20dc966d4797a53eb",
+    "cached_in_git": false,
+    "reviewed_on": "2026-10-08",
+    "tables_checked": [
+      "B14 formats p.50",
+      "B9 genres p.40",
+      "B1 book participation and sample bases"
+    ]
+  }
+]

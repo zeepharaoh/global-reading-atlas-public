@@ -1,0 +1,180 @@
+{
+  "checked_on": "2026-11-09",
+  "review_window_start": "2026-10-27",
+  "review_window_end": "2026-11-09",
+  "scope": "Official trade and library releases reviewed separately from automated retrieval. Period, source scope and publication precision are retained.",
+  "findings": [
+    {
+      "source_id": "se_booksales_2026_q3",
+      "publication_date": "2026-10-28",
+      "observation_year": 2026,
+      "period_start": "2026-07-01",
+      "period_end": "2026-09-30",
+      "source_url": "https://forlaggare.se/wp-content/uploads/2026/10/Bokfo%CC%88rsa%CC%88ljningsstatistiken-2026-Q3.pdf",
+      "release_url": "https://forlaggare.se/nyheter/bokforsaljningen-okar-under-det-tredje-kvartalet/",
+      "vintage": "Bokförsäljningsstatistiken, third quarter 2026",
+      "evidence_locator": "PDF page 5, Table 1.1, total row; page 16, Table 1.12, Ljudbok, E-bok and Utländsk utgivning rows; page 33, sales and VAT definitions. Page numbers count the cover.",
+      "geography": "Sweden",
+      "population": "Reporting retailers and digital subscription services selling trade books to consumers",
+      "recall_period": "Not applicable; transactions in the quarter",
+      "unit": "SEK million excluding VAT",
+      "values": {
+        "panel_turnover": 1382,
+        "domestic_publication_audiobook_streaming": 382,
+        "domestic_publication_ebook_streaming": 32,
+        "foreign_publication_combined_digital_streaming": 65
+      },
+      "notes": "The foreign digital category is combined. The nominal print subtotal includes some individually sold digital formats. Table 2.1 labels SEK 3,892 million as January to September; the release mistakenly describes this period as the first half.",
+      "decision": "Record quarterly evidence separately from annual monetary series and audience measures."
+    },
+    {
+      "source_id": "it_aie_bookcity_consumption_2026",
+      "publication_date": "2026-11-04",
+      "observation_year": 2025,
+      "period_start": "2025-01-01",
+      "period_end": "2025-12-31",
+      "source_url": "https://www.aie.it/Portals/_default/Skede/Allegati/Skeda105-11619-2026.11.4/09_24_Osservatorio%20AIE%20Bookcity_Report%20sesta%20edizione%20-%20CONSUMI.pdf?IDUNI=umaebsrdyed0rn3cjgin1unc7353",
+      "release_url": "https://www.giornaledellalibreria.it/news/mercato/un-libro-su-dieci-in-italia-viene-acquistato-a-milano-i-dati-aie-per-bookcity-7507.html",
+      "vintage": "AIE BookCity Milano observatory, sixth edition, Consumi",
+      "evidence_locator": "PDF pages 15 and 18, Milan print retail spending; page 17, physical library loans.",
+      "geography": "Municipality of Milan, Italy",
+      "population": "Estimated adult and children trade print spending via physical and online bookstores and grocery book stands; municipal physical library loan records",
+      "recall_period": "Not applicable; retail estimates and library records for the calendar year",
+      "values": [
+        {
+          "metric": "Trade print retail spending",
+          "unit": "EUR million",
+          "value": 155.8
+        },
+        {
+          "metric": "Physical library loans",
+          "unit": "loans",
+          "value": 987651
+        }
+      ],
+      "notes": "The retail measure excludes used books, festivals, museums, minor channels and digital subscriptions.",
+      "decision": "City evidence retained in the review inventory."
+    },
+    {
+      "source_id": "it_aie_bookcity_libraries_2026",
+      "publication_date": "2026-11-04",
+      "observation_year": 2025,
+      "period_start": "2025-01-01",
+      "period_end": "2025-12-31",
+      "source_url": "https://www.aie.it/Portals/_default/Skede/Allegati/Skeda105-11620-2026.11.4/10_15_Osservatorio%20AIE%20Bookcity_Report%20sesta%20edizione%20-%20BIBLIOTECHE.pdf?IDUNI=kzhz3yuxp55jafhudnlzy0f21785",
+      "vintage": "AIE BookCity Milano observatory, sixth edition, Biblioteche",
+      "evidence_locator": "PDF page 11, ebook downloads; page 14, MLOL audiobook loans by borrower frequency. The two highest published frequency bands are 12–24 and over 25 loans.",
+      "geography": "Municipality of Milan, Italy",
+      "population": "Milan library digital services; audiobook percentages refer to MLOL audiobook borrowers and audiobook loans",
+      "recall_period": "Not applicable; library records for the calendar year",
+      "values": [
+        {
+          "metric": "Ebook downloads",
+          "unit": "downloads",
+          "value": 71400
+        },
+        {
+          "metric": "Audiobook borrowers in the two highest published loan frequency bands",
+          "unit": "percent of audiobook borrowers",
+          "value": 5
+        },
+        {
+          "metric": "Audiobook loans from the two highest published borrower frequency bands",
+          "unit": "percent of audiobook loans",
+          "value": 42
+        }
+      ],
+      "decision": "City library use retained separately from national reach.",
+      "report_sha256": "52546341bc263b8815404b1d4d2da76812c0cbd33eaa68717849083a74e31638"
+    },
+    {
+      "source_id": "de_boersenverein_monitor_2026_11",
+      "publication_month": "2026-11",
+      "observation_year": 2026,
+      "period_start": "2026-10-01",
+      "period_end": "2026-10-31",
+      "source_url": "https://www.boersenverein.de/tx_boev_newsletter_view?tx_boev_pi14%5Bbackend_layout%5D=pagets__newsletter&tx_boev_pi14%5Buid%5D=3132",
+      "vintage": "Branchen-Monitor BUCH, November 2026",
+      "evidence_locator": "Five-channel panel sections 1 Gesamt and 3 Editionsformen, commentary and methodology.",
+      "geography": "Germany",
+      "population": "Media Control retail panel of 5,710 points of sale, excluding the school and learning category",
+      "recall_period": "Not applicable; identified retail transactions by month",
+      "unit": "Percent change against October 2025, as published",
+      "values": {
+        "revenue": 2.7,
+        "units": 1.6,
+        "average_price": 1.1,
+        "hardcover_softcover_revenue": 2.3
+      },
+      "decision": "Monthly retail context kept outside annual series."
+    },
+    {
+      "source_id": "es_fgee_2025_full_report",
+      "publication_date": null,
+      "observation_years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "source_url": "https://federacioneditores.org/wp-content/uploads/2026/10/Informe-Comercio-Interior-del-Libro-en-Espana-2025-100726_con-logos.pdf",
+      "vintage": "Comercio Interior del Libro en España 2025, full report",
+      "evidence_locator": "Printed page 40, gross turnover definition; page 42, Table 28; page 78, Facturación PAPEL; page 121, Table 94, paper total.",
+      "geography": "Spain domestic market",
+      "population": "Domestic turnover of the private publisher sector covered by the FGEE study",
+      "recall_period": "Not applicable; publisher turnover by calendar year",
+      "unit": "EUR million at retail cover price including VAT",
+      "notes": "Table 28 confirms the existing gross totals. The paper summary and the annex differ by EUR 0.01 million in 2023 and 2024. The full report's audiobook percentage has a different base from the June advance's reported audiobook totals.",
+      "decision": "Keep the validated June advance as published. Record the full report separately until its publication date and the paper table discrepancy are resolved."
+    },
+    {
+      "source_id": "cnl_fr_youth_2026",
+      "publication_date": "2026-04-14",
+      "observation_year": 2026,
+      "source_url": "https://centrenationaldulivre.fr/sites/default/files/2026-04/%C3%89tude%202026%20-%20Les%20jeunes%20Fran%C3%A7ais%20et%20la%20lecture%20-%20Rapport%20Complet.pdf",
+      "vintage": "CNL and Ipsos bva youth reading study, fifth edition",
+      "evidence_locator": "PDF pp. 7 and 32, sampling and audiobook use; release date in the dated press release.",
+      "geography": "France",
+      "population": "Representative online survey of 1,500 respondents ages 7–19",
+      "recall_period": "Ever",
+      "unit": "Percent of respondents",
+      "value": 43,
+      "decision": "Keep youth lifetime listening in the review inventory, separate from the general past-year series."
+    },
+    {
+      "source_id": "mofibo_megafon_dk_2026",
+      "publication_date": "2026-03-11",
+      "observation_year": 2026,
+      "source_url": "https://blog.mofibo.com/wp-content/uploads/2026/03/Danskernes-lydbogsvaner-2026-1-1.pdf",
+      "vintage": "Danskernes lydbogsvaner 2026, January fieldwork",
+      "evidence_locator": "Printed pp. 10, 16 and 22, frequency, genres and methods.",
+      "geography": "Denmark",
+      "population": "Weighted national survey of 2,038 respondents, with 925 audiobook listeners; separate Mofibo customer survey.",
+      "decision": "Hold frequency and genre extracts until the precise national sampling frame, question wording and genre base are verified."
+    }
+  ],
+  "other_rechecks": [
+    {
+      "sources": [
+        "pew_us",
+        "cnl_fr",
+        "nordicom_se",
+        "booknet_ca",
+        "storytel_story_report_2026",
+        "apa_us_sales"
+      ],
+      "decision": "Retain reviewed observation and questionnaire bases. No comparable replacement wave found in the bounded source recheck."
+    },
+    {
+      "sources": [
+        "aap_us_annual",
+        "uk_pa_industry",
+        "kvb_nl_industry",
+        "statcan_ca_book_publishers",
+        "se_bfs_retail_2025",
+        "fi_sky_annual_sales"
+      ],
+      "decision": "Retain reviewed annual values. Sweden's Q3 findings are recorded separately. Finland's annual audiobook HTML and spreadsheet discrepancy remains unresolved."
+    }
+  ]
+}

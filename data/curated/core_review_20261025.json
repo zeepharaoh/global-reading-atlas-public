@@ -1,0 +1,92 @@
+{
+  "reviewed_on": "2026-10-25",
+  "review_scope": "Five core sources only; original numeric data and definitions verified. No new observations extracted or repo files changed.",
+  "receipts": [
+    {
+      "source_id": "pew_us",
+      "status": "verified_no_material_evidence_change",
+      "urls_checked": [
+        "https://www.pewresearch.org/chart/print-books-still-dominate-in-the-u-s-but-use-of-e-books-and-audiobooks-has-grown-over-the-past-decade/"
+      ],
+      "observation_year": 2025,
+      "publication_date": "2026-04-09",
+      "locator": "HTML Data table 2025 row; chart source note",
+      "verified_values_percent": {
+        "Print": 64,
+        "Ebook": 31,
+        "Audiobook": 26
+      },
+      "definition": "U.S. adults; past12months; all or part of book; survey6-16October2025. Formats overlap. Phone through2021, web/phone2025.",
+      "notes": "Current public table exactly matches existing format profiles. No2026observation appears in the chart. SourceHTML layout changes do not require data replacement."
+    },
+    {
+      "source_id": "nordicom_se",
+      "status": "verified_no_material_evidence_change",
+      "urls_checked": [
+        "https://www.nordicom.gu.se/sv/aktuellt/nyheter/youtube-bilradio-och-skonlitteratur-sa-tog-svenskarna-del-av-medier-2025"
+      ],
+      "observation_year": 2025,
+      "publication_date": "2026-05-05",
+      "locator": "Ungef\u00e4r h\u00e4lften av befolkningen tog del av en bok; format paragraph",
+      "verified_values_percent": {
+        "Print": 37,
+        "Ebook": 7,
+        "Audiobook": 15,
+        "Any book": 49
+      },
+      "definition": "Population9-85inSweden, average day/during yesterday. National daily reach, not annual use.",
+      "notes": "Existing latest format/audio values37/7/15matchcurrent official prose. No new2026annualobservation present. Do not infer genre percentages from qualitative ranking sentence."
+    },
+    {
+      "source_id": "booknet_ca",
+      "status": "verified_no_material_evidence_change",
+      "urls_checked": [
+        "https://booknetcanada.ca/research/canadian-leisure-reading-study-2025/",
+        "https://booknetcanada.ca/wp-content/uploads/2026/06/CanadianLeisureandReading2025.pdf"
+      ],
+      "observation_year": 2025,
+      "publication_date": "2026-05-05",
+      "locator": "Current HTML Methodology; Format preferences and frequency of reading; Subjects and types of books. PDF pp4,25,35,37.",
+      "verified_values_percent": {
+        "Print reader reach": 93,
+        "Ebook reader reach": 71,
+        "Audiobook reader reach": 57
+      },
+      "definition": "English-speaking adult online panel;total1278, readerbase1005, nonreaders273, January2026fieldwork about2025. No alladult prevalence inference. Genre subgroup n unpublished.",
+      "current_pdf_sha256": "ed1557f2ad524fef98cc6c9c62db9105d44f0a6b5b002bbd36510a5e335e70fd",
+      "same_as_previously_validated_pdf": true,
+      "notes": "PDF is byte-identical to previously validated artifact, preserving all60curated2025genre rows. CurrentHTML explicitly restates93/71/57andcurrentgenre tables. Readers are at least one book or part of one inyear. Retain existing external release wording caveat and no designCIs."
+    },
+    {
+      "source_id": "apa_us_sales",
+      "status": "verified_no_material_evidence_change",
+      "urls_checked": [
+        "https://www.audiopub.org/surveys"
+      ],
+      "observation_year": 2025,
+      "publication_date": "2026-06-05",
+      "locator": "APA Sales and Consumer Data, dated opening sales paragraph",
+      "verified_values": {
+        "audiobook_publisher_revenue_usd_million": 2430,
+        "publisher_reported_growth_percent": 9
+      },
+      "definition": "2025 audiobook publisher sales survey byToluna. Calendar-year publisher receipts, not consumer spending or audience reach.",
+      "notes": "2430USDmillionmatchesexistingindustry row. Consumer survey below is February2026andseparate, ever-listenertrackn1020plusnonbookspokenword686; do not convert63%listener annual proportion into national prevalence. No responsecount or harmonizedpriorrevenue table disclosed."
+    },
+    {
+      "source_id": "storytel_story_report_2026",
+      "status": "verified_no_material_evidence_change",
+      "urls_checked": [
+        "https://storage.mfn.se/a9a00072-6fa4-471d-abbf-b0c8aa726b7e/the-2026-story-report-by-storytel.pdf"
+      ],
+      "observation_year": 2026,
+      "publication_date": "2026-06-24 (retained existing validated metadata; no new release-date verification performed)",
+      "locator": "PDFpage13occasions andPDFpage14genres",
+      "verified_row_count": 50,
+      "current_pdf_sha256": "2436824d2c59a26557d677522dba24e2a289bfef4ba8713de9974ee00e3e07e6",
+      "same_as_previously_validated_pdf": true,
+      "definition": "Top5preferences and situations bymarket; audiobooklisteners. Overallsample5077isnotlistenerdenominator. Noexplicitrecallwindow.",
+      "notes": "Downloaded originalPDF byte-identical to reviewedartifact. Programmatically comparedall50existingCSV(country,record_type,item,participation)againstcurrentPDFtext: allmatch. No inferred national participation or newdata."
+    }
+  ]
+}

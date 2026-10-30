@@ -1,0 +1,63 @@
+{
+  "reviewed_on": "2026-11-16",
+  "source_id": "jim_de_2026",
+  "observation_year": 2026,
+  "publication_date": "2026-11-13",
+  "report_vintage": "JIM 2026",
+  "source_url": "https://www.lfk.de/fileadmin/PDFs/Publikationen/Studien/JIM-Studie/jim-studie-2026.pdf",
+  "release_url": "https://www.lfk.de/forschung/mediennutzungsstudien/jim-studie-2026",
+  "release_date_locator": "LFK report landing introductory paragraph states publication on 13 November 2026.",
+  "report_sha256": "d5a7e1cf56c44c7aac386a79c5c0b3c1771f640bb961f3c6af4658c40b886f23",
+  "fieldwork_start": "2026-05-27",
+  "fieldwork_end": "2026-07-06",
+  "population": "German-speaking youth age 12–19 in Germany; n=1,200, weighted mixed CATI/CAWI sample",
+  "sample_size": 1200,
+  "geography": "Germany",
+  "methods_locator": "Printed p.2 (PDF index 3), Einführung und Methode",
+  "methods": "50% CATI and 50% CAWI. The full sample is weighted jointly by age/gender and federal state.",
+  "question_original": "Bitte gib jeweils an, wie oft Du das in Deiner Freizeit machst.",
+  "question_locator": "Printed pp.17–18 (PDF indices 18–19), chart footers",
+  "recall_period": "Usual leisure frequency without a bounded reference window",
+  "unit": "Percent of all respondents",
+  "format_scope": "Print excludes assigned school reading; ebooks are asked separately. Format use overlaps.",
+  "added_observations": [
+    {
+      "country_iso3": "DEU",
+      "country": "Germany",
+      "year": 2026,
+      "format_label": "Print",
+      "participation": 31,
+      "denominator": "All respondents age 12–19 (n=1,200)",
+      "population": "German-speaking youth age 12–19 in Germany; n=1,200, weighted mixed CATI/CAWI sample",
+      "period": "Usual leisure frequency: daily or several times per week; no bounded recall",
+      "comparison_group": "Germany youth age 12–19 reading frequency",
+      "source_id": "jim_de_2026",
+      "source_url": "https://www.lfk.de/fileadmin/PDFs/Publikationen/Studien/JIM-Studie/jim-studie-2026.pdf",
+      "evidence_locator": "Printed p.17 (PDF index 18), Bücher lesen, Gesamt bar, daily/several times per week; p.16 prose; methods p.2.",
+      "sample_size": 1200,
+      "notes": "Reviewed 2026-11-16. Published 2026-11-13. Fieldwork 27 May to 6 July 2026; 50% CATI and 50% CAWI, weighted by age/gender and federal state. Question asks usual leisure frequency; daily or several times per week. Print excludes school reading. Formats overlap. The report combines audiobooks with radio plays, so this source contributes no audiobook observation. This youth reading frequency is not comparable with adult annual participation or daily population reach."
+    },
+    {
+      "country_iso3": "DEU",
+      "country": "Germany",
+      "year": 2026,
+      "format_label": "Ebook",
+      "participation": 10,
+      "denominator": "All respondents age 12–19 (n=1,200)",
+      "population": "German-speaking youth age 12–19 in Germany; n=1,200, weighted mixed CATI/CAWI sample",
+      "period": "Usual leisure frequency: daily or several times per week; no bounded recall",
+      "comparison_group": "Germany youth age 12–19 reading frequency",
+      "source_id": "jim_de_2026",
+      "source_url": "https://www.lfk.de/fileadmin/PDFs/Publikationen/Studien/JIM-Studie/jim-studie-2026.pdf",
+      "evidence_locator": "Printed p.18 (PDF index 19), E-Books lesen, Gesamt bar, daily/several times per week; methods p.2.",
+      "sample_size": 1200,
+      "notes": "Reviewed 2026-11-16. Published 2026-11-13. Fieldwork 27 May to 6 July 2026; 50% CATI and 50% CAWI, weighted by age/gender and federal state. Question asks usual leisure frequency; daily or several times per week. Print excludes school reading. Formats overlap. The report combines audiobooks with radio plays, so this source contributes no audiobook observation. This youth reading frequency is not comparable with adult annual participation or daily population reach."
+    }
+  ],
+  "excluded_audio": {
+    "locator": "Printed p.21 (PDF index 22), combined Hörbücher und Hörspiele paragraph",
+    "regular_frequency_percent": 26,
+    "at_least_rarely_percent": 67,
+    "decision": "The category combines audiobooks with radio plays. Both percentages are excluded from audiobook observations."
+  }
+}

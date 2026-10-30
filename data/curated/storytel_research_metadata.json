@@ -1,0 +1,70 @@
+{
+  "source_id": "storytel_story_report_2026",
+  "title": "The 2026 Story Report",
+  "publication_date": "2026-06-24",
+  "fieldwork": "April 2026",
+  "countries": [
+    "SWE",
+    "NOR",
+    "FIN",
+    "POL",
+    "BGR"
+  ],
+  "population": "Age 18-79",
+  "total_sample": 5077,
+  "country_sample": "Approximately 1,000 per country; exact country and listener subgroup n not provided",
+  "recruitment": "Online panels: Norstat in Sweden, Norway, Finland and Poland; JTN Research in Bulgaria",
+  "representativeness": "Publisher states samples representative of each national population; weighting variables, design effect and detailed questionnaire not provided in report",
+  "sponsor": "Storytel",
+  "research_agency": "Trackit Insight",
+  "genre_question": "Which genres do you listen to most often?",
+  "moment_question": "In what situations do you listen to books?",
+  "published_scope": "Top five responses per country only",
+  "limitations": [
+    "Unreported genres and occasions cannot be interpreted as zero.",
+    "These are listener preferences and occasions, not population audiobook participation.",
+    "Participation chart on page 9 has no numerical labels for total-population bars. Its bold labels mark age-group peaks. No total population percentages were imported.",
+    "The overall sample is not the denominator for listener-only percentages.",
+    "No microdata, sampling errors or confidence intervals are supplied.",
+    "Wellbeing findings are associations; no causal inference."
+  ],
+  "source_url": "https://storage.mfn.se/a9a00072-6fa4-471d-abbf-b0c8aa726b7e/the-2026-story-report-by-storytel.pdf",
+  "landing_page": "https://www.storytelgroup.com/en/new-report-from-storytel-reveals-link-between-strong-reading-habits-and-better-wellbeing/",
+  "visually_checked_pages": [
+    9,
+    13,
+    14
+  ],
+  "footprint_supplemental_sources": [
+    "https://www.storytel.com/store-select",
+    "https://storage.mfn.se/f7b8528c-f140-42a4-a700-8854b21d2c4b/interim-report-january-june-2026-storytel-ab-publ.pdf",
+    "https://www.audiobooks.com/faqs",
+    "https://ca.audiobooks.com/3monthoffer",
+    "https://apps.apple.com/ca/app/audiobooks-com-get-audiobooks/id521227008"
+  ],
+  "reporting_segments_2026": {
+    "Nordics": [
+      "SWE",
+      "DNK",
+      "NOR",
+      "FIN",
+      "ISL",
+      "EST"
+    ],
+    "Europe": [
+      "NLD",
+      "BEL",
+      "DEU",
+      "ITA",
+      "ESP",
+      "FRA",
+      "POL",
+      "BGR",
+      "TUR",
+      "ISR"
+    ],
+    "Americas": "North America via Audiobooks.com and Latin America",
+    "APAC": "Asia Pacific and Middle East excluding Israel"
+  },
+  "sha256": "2436824d2c59a26557d677522dba24e2a289bfef4ba8713de9974ee00e3e07e6"
+}

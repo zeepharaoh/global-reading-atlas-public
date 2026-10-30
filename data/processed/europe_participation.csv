@@ -1,0 +1,34 @@
+country_iso3,country,geo,scope,year,sex,sex_label,age,age_label,isced11,education_label,participation,nonreader_pct,status_flag,reliability,source_id
+BEL,Belgium,BE,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,60.1,39.9,,Published,eurostat
+BGR,Bulgaria,BG,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,37.8,62.2,,Published,eurostat
+CZE,Czechia,CZ,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,64.2,35.8,,Published,eurostat
+DNK,Denmark,DK,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,72.2,27.8,,Published,eurostat
+DEU,Germany,DE,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,,,u,Missing or unreliable,eurostat
+EST,Estonia,EE,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,70.7,29.3,,Published,eurostat
+IRL,Ireland,IE,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,66.5,33.5,,Published,eurostat
+GRC,Greece,EL,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,43.0,57.0,,Published,eurostat
+ESP,Spain,ES,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,54.2,45.8,,Published,eurostat
+FRA,France,FR,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,61.6,38.4,,Published,eurostat
+HRV,Croatia,HR,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,42.0,58.0,,Published,eurostat
+ITA,Italy,IT,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,35.4,64.6,,Published,eurostat
+CYP,Cyprus,CY,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,32.7,67.3,,Published,eurostat
+LVA,Latvia,LV,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,50.4,49.6,,Published,eurostat
+LTU,Lithuania,LT,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,52.4,47.6,,Published,eurostat
+LUX,Luxembourg,LU,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,75.3,24.7,,Published,eurostat
+HUN,Hungary,HU,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,52.5,47.5,,Published,eurostat
+MLT,Malta,MT,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,43.7,56.3,,Published,eurostat
+NLD,Netherlands,NL,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,67.3,32.7,,Published,eurostat
+AUT,Austria,AT,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,63.7,36.3,,Published,eurostat
+POL,Poland,PL,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,54.6,45.4,,Published,eurostat
+PRT,Portugal,PT,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,41.9,58.1,,Published,eurostat
+ROU,Romania,RO,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,29.4,70.6,,Published,eurostat
+SVN,Slovenia,SI,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,59.5,40.5,,Published,eurostat
+SVK,Slovakia,SK,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,47.9,52.1,,Published,eurostat
+FIN,Finland,FI,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,69.7,30.3,,Published,eurostat
+SWE,Sweden,SE,EU member,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,69.7,30.3,,Published,eurostat
+NOR,Norway,NO,Other surveyed country,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,71.0,29.0,,Published,eurostat
+CHE,Switzerland,CH,Other surveyed country,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,80.6,19.4,,Published,eurostat
+MNE,Montenegro,ME,Other surveyed country,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,35.4,64.6,,Published,eurostat
+ALB,Albania,AL,Other surveyed country,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,29.2,70.8,,Published,eurostat
+SRB,Serbia,RS,Other surveyed country,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,36.0,64.0,,Published,eurostat
+TUR,Türkiye,TR,Other surveyed country,2022,T,All,Y_GE16,16 years or over,TOTAL,All ISCED 2011 levels,30.3,69.7,,Published,eurostat

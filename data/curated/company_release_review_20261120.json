@@ -1,0 +1,191 @@
+{
+  "reviewed_on": "2026-11-20",
+  "review_window_start": "2026-11-17",
+  "review_window_end": "2026-11-20",
+  "scope": "Bounded official company, publisher, subscription and library review. Earlier regulator and company disclosures were reviewed where they correct a pending ownership stage or support an inventory addition.",
+  "company_registry_rows_added": 2,
+  "company_registry_ids_added": [
+    "bokusgruppen",
+    "podme"
+  ],
+  "company_registry_row_count": 29,
+  "annual_industry_rows_added": 0,
+  "national_observations_added": 0,
+  "numeric_observations_added": 0,
+  "source_references_additions": {
+    "spotify": [
+      "https://newsroom.spotify.com/2026-11-18/audiobook-creation-tools-expansion/"
+    ],
+    "ximalaya": [
+      "https://ir.tencentmusic.com/2026-11-17-Tencent-Music-Entertainment-Group-Announces-Third-Quarter-2026-Unaudited-Financial-Results"
+    ],
+    "penguin_random_house": [
+      "https://www.bertelsmann.com/en/media/news/bertelsmann-reports-record-nine-month-group-revenues-with-organic-growth-at-6-4-percent.html"
+    ],
+    "nextory": [
+      "https://www.konkurrensverket.se/konkurrens/tillsyn-arenden-och-beslut/arendelista/bonnier-books-group-holding-ab-och-nextory-ab/",
+      "https://www.konkurrensverket.se/globalassets/dokument/konkurrens/beslut/26-0697_sarskild-undersokning.pdf"
+    ],
+    "bokusgruppen": [
+      "https://www.bokusgruppen.com/media/pressmeddelanden/2026/bokusgruppen-ab-publ-delarsrapport-januariseptember-2026/",
+      "https://www.bokusgruppen.com/varumarken/bokus-play/"
+    ],
+    "podme": [
+      "https://sepress.podme.com/post/podme-lanserar-ljudbocker-i-sverige-och-finland",
+      "https://podme.com/se/audiobooks/",
+      "https://podme.com/se/anvandarvillkor/"
+    ]
+  },
+  "material_updates_additions": [
+    {
+      "reviewed_on": "2026-11-20",
+      "unit": "Not applicable; qualitative company evidence",
+      "recall_period": "Not applicable; company or service disclosure",
+      "quantitative_status": "No national, annual industry or numerical audience observation added.",
+      "company_id": "spotify",
+      "date": "2026-11-18",
+      "publication_date": "2026-11-18",
+      "effective_date": "2026-11-18",
+      "category": "Author creation tool eligibility expansion",
+      "fact": "Spotify expanded audiobook creation tool eligibility to authors in additional markets and added Spanish manuscript support.",
+      "url": "https://newsroom.spotify.com/2026-11-18/audiobook-creation-tools-expansion/",
+      "evidence_locator": "Dated release opening paragraphs, including the paragraph beginning Starting today; How it works section.",
+      "report_vintage": "Spotify newsroom release dated 18 November 2026",
+      "geography": "Author eligibility markets listed in the release; consumer listening availability is a separate footprint",
+      "population": "Eligible self-published authors submitting manuscripts, rather than listeners or subscription customers",
+      "format_scope": "Audiobook production and distribution tools",
+      "status": "Creator tool availability only. This does not establish new consumer audiobook markets or use. Operational upload percentages and catalogue estimates were not extracted."
+    },
+    {
+      "reviewed_on": "2026-11-20",
+      "unit": "Not applicable; qualitative company evidence",
+      "recall_period": "Not applicable; company or service disclosure",
+      "quantitative_status": "No TME group, mixed-audio segment or motion-comic quantity was imported as a book or audiobook observation.",
+      "company_id": "ximalaya",
+      "date": "2026-11-17",
+      "publication_date": "2026-11-17",
+      "category": "Broad audio quarterly company report",
+      "fact": "TME reviewed Ximalaya within long-form audio and reported consolidated music related services, including long-form audio. Ximalaya commentary also covers music and motion comics.",
+      "url": "https://ir.tencentmusic.com/2026-11-17-Tencent-Music-Entertainment-Group-Announces-Third-Quarter-2026-Unaudited-Financial-Results",
+      "evidence_locator": "Third Quarter 2026 Operational Highlights, Products and Services, Long-form audio paragraph; Third Quarter 2026 Financial Review and footnotes [1] to [3].",
+      "report_vintage": "TME Q3 2026 unaudited results released 17 November 2026",
+      "period_start": "2026-07-01",
+      "period_end": "2026-09-30",
+      "geography": "TME consolidated company operations, principally China",
+      "population": "TME group businesses and service customers across music and other audio",
+      "format_scope": "Mixed music, long-form audio and other entertainment; no standalone audiobook figure",
+      "status": "Qualitative company context. Consolidation includes Ximalaya from 18 May 2026. Segment membership and revenue cannot be assigned to audiobook listeners or national book consumption."
+    },
+    {
+      "reviewed_on": "2026-11-20",
+      "unit": "Not applicable; qualitative company evidence",
+      "recall_period": "Not applicable; company or service disclosure",
+      "quantitative_status": "No national, annual industry or numerical audience observation added.",
+      "company_id": "penguin_random_house",
+      "date": "2026-11-17",
+      "publication_date": "2026-11-17",
+      "category": "Parent nine-month company reporting review",
+      "fact": "Bertelsmann reported nine-month group results and qualitative Penguin Random House publishing highlights. The release does not disclose a separate PRH or audiobook revenue amount.",
+      "url": "https://www.bertelsmann.com/en/media/news/bertelsmann-reports-record-nine-month-group-revenues-with-organic-growth-at-6-4-percent.html",
+      "evidence_locator": "Opening group results paragraphs; Highlights from the divisions, Penguin Random House paragraphs.",
+      "report_vintage": "Bertelsmann first nine months 2026 release dated 17 November 2026",
+      "period_start": "2026-01-01",
+      "period_end": "2026-09-30",
+      "geography": "International Bertelsmann group and PRH publishing operations",
+      "population": "Corporate reporting entities; no surveyed reader or listener population",
+      "format_scope": "PRH all-format publishing commentary; parent financial totals include television, music and other businesses",
+      "status": "Qualitative company context. Group revenue and acquisition effects are not PRH, national book or audiobook measures. Bestseller examples are not genre participation estimates."
+    },
+    {
+      "reviewed_on": "2026-11-20",
+      "unit": "Not applicable; qualitative company evidence",
+      "recall_period": "Not applicable; company or service disclosure",
+      "quantitative_status": "No national, annual industry or numerical audience observation added.",
+      "company_id": "nextory",
+      "date": "2026-11-10",
+      "publication_date": "2026-11-10",
+      "category": "Pending acquisition enters special investigation",
+      "fact": "The Swedish Competition Authority opened a special investigation of the planned Bonnier Books acquisition of Nextory. The case remains ongoing.",
+      "url": "https://www.konkurrensverket.se/konkurrens/tillsyn-arenden-och-beslut/arendelista/bonnier-books-group-holding-ab-och-nextory-ab/",
+      "attached_report_url": "https://www.konkurrensverket.se/globalassets/dokument/konkurrens/beslut/26-0697_sarskild-undersokning.pdf",
+      "evidence_locator": "Case page Status and special investigation section; decision PDF p.1 dated 10 November 2026 and pp.2 to 3, paragraphs 1 to 4 and 10 to 15.",
+      "report_vintage": "Swedish Competition Authority case 697/2026, decision dated 10 November 2026, case status reviewed 20 November 2026",
+      "case_status_original": "Pågående",
+      "investigation_decision_date": "2026-11-10",
+      "final_decision_date": null,
+      "current_decision_deadline": "2027-03-24",
+      "deadline_note": "The authority states that this deadline can change under the conditions specified in paragraph 14.",
+      "geography": "Swedish competition review; Nextory also operates in other countries",
+      "population": "Proposed corporate transaction and market participants, rather than a listener survey",
+      "format_scope": "Audiobook and ebook subscription service",
+      "status": "Earlier decision newly reviewed. This corrects the prior review of diary status alone. No acquisition completion or final approval was inferred; parent_company remains blank."
+    },
+    {
+      "reviewed_on": "2026-11-20",
+      "unit": "Not applicable; qualitative company evidence",
+      "recall_period": "Not applicable; company or service disclosure",
+      "quantitative_status": "No national, annual industry or numerical audience observation added.",
+      "company_id": "bokusgruppen",
+      "date": "2026-10-22",
+      "publication_date": "2026-10-22",
+      "category": "Retail and subscription group inventory addition",
+      "fact": "Bokusgruppen operates physical and online book retail, Bokus Play audio and ebook subscriptions, and library and school services. Its brands also include the acquired art supplies retailer Pen Store.",
+      "url": "https://www.bokusgruppen.com/media/pressmeddelanden/2026/bokusgruppen-ab-publ-delarsrapport-januariseptember-2026/",
+      "supporting_url": "https://www.bokusgruppen.com/varumarken/bokus-play/",
+      "evidence_locator": "Q3 release, Om Bokusgruppen, Fokus på stärkt lönsamhet i segment Bokus and Förvärvet av Pen Store stärker koncernen; Bokus Play profile, En unik abonnemangstjänst and final segment statement.",
+      "report_vintage": "Bokusgruppen Q3 2026 release dated 22 October 2026; current official Bokus Play profile reviewed 20 November 2026",
+      "period_start": "2026-07-01",
+      "period_end": "2026-09-30",
+      "geography": "Sweden book businesses; no complete international book service footprint extracted",
+      "population": "Company group and consumer or institutional book services",
+      "format_scope": "Print, ebooks and audiobooks; group also contains non-book retail",
+      "status": "One group inventory row. Brand and business segment figures overlap. Group or Bokus segment sales include mixed activities and are not book-only or audiobook-only totals."
+    },
+    {
+      "reviewed_on": "2026-11-20",
+      "unit": "Not applicable; qualitative company evidence",
+      "recall_period": "Not applicable; company or service disclosure",
+      "quantitative_status": "No national, annual industry or numerical audience observation added.",
+      "company_id": "podme",
+      "date": "2025-05-15",
+      "publication_date": "2025-05-15",
+      "category": "Mixed podcast and audiobook service inventory addition",
+      "fact": "Podme announced a combined podcast and audiobook subscription for Sweden and Finland. A current Swedish audiobook storefront confirms an operational offer, and current service terms identify Schibsted Media AS as the group parent.",
+      "url": "https://sepress.podme.com/post/podme-lanserar-ljudbocker-i-sverige-och-finland",
+      "supporting_urls": [
+        "https://podme.com/se/audiobooks/",
+        "https://podme.com/se/anvandarvillkor/"
+      ],
+      "evidence_locator": "15 May 2025 release opening paragraph and Premium Total paragraph; Swedish audiobook storefront Premium Total section; current service terms sections 1.2 and 1.3.",
+      "report_vintage": "Dated launch plan, 15 May 2025; Swedish storefront and ownership terms observed 20 November 2026",
+      "geography": "Current Swedish audiobook offer verified. The older release planned Finland for June 2025; current Finnish availability and any Norwegian launch were not verified in this review.",
+      "population": "Mixed podcast and audiobook subscription service, rather than a national listener population",
+      "format_scope": "Audiobooks within a service that also offers premium podcasts",
+      "status": "One service inventory row with Schibsted Media AS ownership. The earlier paid subscriber count predates the announced audiobook offer and is excluded. Planned launch dates were not relabelled as verified completion dates.",
+      "retrieval_note": "Bounded public evidence review only. The consumer terms restrict automated scraping except where permitted by the stated robots rules; the dated press page is the automated registry check URL."
+    }
+  ],
+  "other_release_reviews": [
+    {
+      "company_id": "overdrive_libby",
+      "publication_date": "2026-11-17",
+      "reviewed_on": "2026-11-20",
+      "url": "https://company.overdrive.com/2026/11/17/independent-press-hits-of-2026/",
+      "evidence_locator": "Independent Press Hits of 2026, introductory curation and featured title sections.",
+      "decision": "Library collection curation. No measured loans, sales, reader prevalence or genre shares were added."
+    },
+    {
+      "company_id": "storytel_group",
+      "reviewed_on": "2026-11-20",
+      "url": "https://www.storytelgroup.com/en/newsroom/press-releases/",
+      "evidence_locator": "Latest dated press entries and 27 October 2026 Q3 financial release.",
+      "decision": "Latest reviewed financial report remains Q3; share repurchases provide no new book business or audience observation."
+    }
+  ],
+  "inventory_context_source": {
+    "url": "https://www.konkurrensverket.se/globalassets/dokument/konkurrens/beslut/26-0697_sarskild-undersokning.pdf",
+    "publication_date": "2026-11-10",
+    "evidence_locator": "Decision PDF p.3, paragraph 10.",
+    "decision": "Regulator identifies Bokusgruppen and PodMe among Swedish subscription competitors. Company sources separately substantiate formats, service availability and ownership. No numerical market share is published in the cited paragraph."
+  }
+}

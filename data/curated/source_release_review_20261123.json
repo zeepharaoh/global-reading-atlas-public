@@ -1,0 +1,176 @@
+{
+  "checked_on": "2026-11-23",
+  "review_window_start": "2026-11-21",
+  "review_window_end": "2026-11-23",
+  "scope": "Bounded official survey and trade-association release review and recheck of changed source pages. Search absence is not proof of complete release coverage.",
+  "numeric_observations_added": 0,
+  "national_observations_added": 0,
+  "genre_observations_added": 0,
+  "decision": "No new or revised compatible observation accepted. Existing validated rows remain unchanged.",
+  "reviewed_sources": [
+    {
+      "source_ids": [
+        "aap_us_annual",
+        "apa_us_sales"
+      ],
+      "urls": [
+        "https://publishers.org/news/",
+        "https://www.audiopub.org/surveys"
+      ],
+      "evidence_locator": "AAP chronological release list; APA SALES & CONSUMER DATA dated release and methodology.",
+      "decision": "AAP latest visible numerical release remains August 2026, published 14 October 2026. APA retains June 5 2026 release reporting 2025 sales and February 2026 listener survey. No new 21 to 23 November annual or national observation located; publisher sales and listener bases remain separate."
+    },
+    {
+      "source_id": "uk_pa_industry",
+      "urls": [
+        "https://www.publishers.org.uk/news/",
+        "https://www.publishers.org.uk/publishing-reaches-highest-ever-revenue-in-2025/"
+      ],
+      "evidence_locator": "Latest dated news cards; annual release dated 3 June 2026, Consumer publishing in 2025 panel.",
+      "decision": "20 November news concerns careers. Annual consumer print GBP 2100 million and digital audiobook GBP 255 million 2025 remain unchanged. Full publishing includes academic journals and other sectors. Previous as-published vintage break retained."
+    },
+    {
+      "source_id": "pew_us",
+      "url": "https://www.pewresearch.org/chart/print-books-still-dominate-in-the-u-s-but-use-of-e-books-and-audiobooks-has-grown-over-the-past-decade/",
+      "evidence_locator": "Chart Data table 2025 row and survey-mode note.",
+      "observation_year": 2025,
+      "publication_date": "2026-04-09",
+      "unit": "Percent of US adults",
+      "population": "US adults 18+",
+      "recall_period": "Past 12 months",
+      "report_vintage": "Pew chart published 9 April 2026; fieldwork 6 to 16 October 2025",
+      "decision": "Print 64%, ebook 31%, audiobook 26% match the validated rows. Phone 2011 to 2021 versus web/phone 2025 break remains explicit. No 2026 observation added."
+    },
+    {
+      "source_id": "cnl_fr",
+      "url": "https://centrenationaldulivre.fr/donnees-cles/les-francais-et-la-lecture-en-2025",
+      "report_url": "https://centrenationaldulivre.fr/sites/default/files/2025-04/Barom%C3%A8tre%20Les%20Fran%C3%A7ais%20et%20la%20lecture%20Rapport%20complet%202025-04-08.pdf",
+      "evidence_locator": "Landing-page release date and population; original report printed p. 8 methods, p.20 question D4 and p.34 question A2.",
+      "observation_year": 2025,
+      "publication_date": "2025-04-08",
+      "population": "France age 15+; n 1001; CATI 21 January to 4 February 2025",
+      "unit": "Percent of stated survey population",
+      "recall_period": "Past 12 months for accepted audiobook and book-genre observations",
+      "report_vintage": "Sixth CNL/Ipsos biennial barometer, 2025 original report",
+      "decision": "Same report linked. Annual audiobook 15% remains separate from ever-listened 32%. The 19 stored paper/digital genre values match the 2025 column: 52,46,43,37,35,35,35,34,31,29,27,27,26,25,23,17,7,38,25. No new wave or revised definition located."
+    },
+    {
+      "source_id": "kvb_nl_industry",
+      "url": "https://kvbboekwerk.nl/monitor/markt/verkoopcijfers-2025",
+      "evidence_locator": "Page date 22 January 2026; February 2026 update note; first key-result bullet; linked Markt 2025 Verkoopcijfers Infogram.",
+      "observation_year": 2025,
+      "publication_date": "2026-01-22",
+      "unit": "EUR million gross general-book retail revenue",
+      "population": "Netherlands monitored general-book retail panel, not listener respondents",
+      "recall_period": "Calendar year",
+      "report_vintage": "2025 monitor including disclosed February 2026 ebook update",
+      "decision": "Page still states EUR 697 million 2025. The disclosed February update and panel-scope notes remain. Linked Infogram is script-only to the web text reader, so no unseen numerical revision was accepted."
+    },
+    {
+      "source_id": "statcan_ca_book_publishers",
+      "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2110020001",
+      "evidence_locator": "Canonical table 21-10-0200-01 URL and official complete CSV URL; both direct responses contained an unavailable notice rather than data.",
+      "decision": "Canonical table and complete CSV returned HTTP200 but outage HTML, not table content or a ZIP. Source-specific validation rejected the body and retained the previous successful check hash and 20 November success receipt. Existing 2022 CAD 1649.1 million and 2024 CAD 1700.7 million remain unchanged; latest observation year stays 2024. No revision or new observation inferred.",
+      "official_csv_url": "https://www150.statcan.gc.ca/n1/tbl/csv/21100200-eng.zip",
+      "check_status": "Check failed; last reviewed data retained"
+    },
+    {
+      "source_ids": [
+        "nordicom_se",
+        "ssb_no",
+        "booknet_ca"
+      ],
+      "urls": [
+        "https://www.nordicom.gu.se/sv/fakta-analys/mediebarometern",
+        "https://www.ssb.no/kultur-og-fritid/tids-og-mediebruk/statistikk/norsk-mediebarometer",
+        "https://booknetcanada.ca/research-archive/"
+      ],
+      "evidence_locator": "Current publication headings and dated research-archive cards.",
+      "decision": "Nordicom still features Mediebarometern 2025 published 5 May 2026. SSB current annual release remains 12 May 2026 for 2025. BookNet latest annual reading study remains 2025; November 17 niche title blog is not a national genre prevalence wave. No new comparable observation located."
+    },
+    {
+      "source_id": "se_bfs_retail_2025",
+      "urls": [
+        "https://forlaggare.se/",
+        "https://forlaggare.se/bokforsaljningsstatistik/"
+      ],
+      "evidence_locator": "Association homepage latest news and statistics landing-page retrieval.",
+      "decision": "Homepage latest news includes 19 November award item and title ranks. Web statistics path returned a request-verification page; no bypass attempted and no numeric revision accepted. Prior annual and Q3 vintages are retained."
+    },
+    {
+      "source_id": "fi_sky_annual_sales",
+      "urls": [
+        "https://kustantajat.fi/tilastot",
+        "https://www.epressi.com/tiedotteet/kustannustoiminta/kustantajien-tilasto-painettujen-tietokirjojen-myynti-kaantyi-nousuun-viime-vuonna.html"
+      ],
+      "evidence_locator": "Latest annual and quarterly publication links; fixed 16 April 2026 release opening paragraph and annual/quarterly warning.",
+      "decision": "2025 member publisher and teaching-material total remains EUR 291.4 million. Portal latest quarterly period is Q1 to 3/2026. Annual and quarterly collections remain incompatible. Previously unresolved annual audiobook HTML/export discrepancy remains excluded."
+    },
+    {
+      "source_id": "inegi_mx",
+      "url": "https://www.inegi.org.mx/programas/molec/2025/",
+      "evidence_locator": "Publication reciente and presentation-of-results links; methodology update for 2026.",
+      "decision": "Latest release remains 18 November 2026 and was accepted in 20 November review. The 2026 release is not relabelled as new in this review. National age 12+ methodological series remains distinct from pre 2025 urban age 18+ scope."
+    },
+    {
+      "urls": [
+        "https://www.danskeforlag.dk/",
+        "https://forleggerforeningen.no/nyhetsarkiv/"
+      ],
+      "evidence_locator": "Current association news listings.",
+      "decision": "No new 21 to 23 November compatible observation located. Danish latest dated item remains 12 November policy news. Norwegian text-only archive omitted dates and article links; no new-wave claim was based on that incomplete rendering.",
+      "providers": [
+        "Danske Forlag",
+        "Den Norske Forleggerforening"
+      ]
+    },
+    {
+      "source_id": "aie_it_trade_industry",
+      "url": "https://www.aie.it/",
+      "evidence_locator": "Ultime notizie e comunicati stampa; Il mercato del libro nei primi 9 mesi del 2026 panel.",
+      "decision": "23 November item advertises training discount; 20 November item concerns textbook policy. Existing nine-month retail context is not a new annual wave or a national audiobook measure."
+    }
+  ],
+  "documented_not_imported": [
+    {
+      "source_url": "https://fep-fee.eu/European-Book-Publishing-Statistics-2025-2026",
+      "title": "European Book Publishing Statistics 2025",
+      "observation_year": 2025,
+      "publication_date": null,
+      "report_vintage": "Current FEP 2025 aggregate page; exact release date not established",
+      "evidence_locator": "Survey scope; net publisher turnover; total annual sales revenue; closing ebook/audiobook paragraph.",
+      "geography": "Europe aggregate from national publisher associations, not an individual country",
+      "population": "Publisher financial reporting; no listener or reader survey denominator",
+      "unit": "EUR billion for net publisher revenue and separately estimated market value; stated format share of publisher revenue",
+      "recall_period": "Calendar year 2025",
+      "context_values_as_published": {
+        "net_publisher_revenue_eur_billion": 24.6,
+        "estimated_market_value_eur_billion": 35.3,
+        "audiobook_share_percent_flagged_underestimated": 5.3
+      },
+      "decision": "Candidate documented only. Exact publication date is not established; embedded chart filename suggests 13 November but is not release-date evidence. The 2019 questionnaire change, approximate net-turnover estimates and materially underestimated audiobook share prevent treating these values as compatible national audience observations. No audio revenue was calculated from aggregate share, no country row or growth series added."
+    }
+  ],
+  "retrieval_limits": [
+    {
+      "provider": "Firecrawl",
+      "status": "Connected account credits exhausted during final follow-ups",
+      "requests_not_executed": [
+        "FEP page metadata/date follow-up",
+        "Norwegian reader-study search follow-up"
+      ],
+      "reported_reset_at_utc": "2026-11-24T00:40:15.196Z",
+      "action": "No quota retry. Remaining fixed-source verification used ordinary web retrieval. Provider quota is separate from original-source status."
+    },
+    {
+      "source_id": "statcan_ca_book_publishers",
+      "status": "Canonical source and complete CSV returned outage HTML with HTTP200; no validated table or ZIP",
+      "action": "Source-specific validation rejects the unavailable notice, preserving the last validated values, hash and success date. This is a source validation failure, separate from provider quota."
+    },
+    {
+      "source_id": "se_bfs_retail_2025",
+      "status": "Web request verification page",
+      "action": "No bypass and no unverified numeric replacement."
+    }
+  ]
+}

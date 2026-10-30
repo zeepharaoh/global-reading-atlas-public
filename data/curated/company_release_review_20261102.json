@@ -1,0 +1,184 @@
+{
+  "reviewed_on": "2026-11-02",
+  "review_window_start": "2026-10-26",
+  "review_window_end": "2026-11-02",
+  "scope": "Bounded official company and library release review for company inventory context.",
+  "company_registry_rows_added": 0,
+  "annual_industry_rows_added": 0,
+  "national_observations_added": 0,
+  "material_updates_additions": [
+    {
+      "company_id": "storytel_group",
+      "publication_date": "2026-10-27",
+      "category": "Quarterly company and segment reporting",
+      "source_url": "https://www.storytelgroup.com/en/storytel-group-reports-accelerating-growth-the-largest-subscriber-increase-since-2023-and-continued-expansion-of-the-adjusted-ebitda-margin-on-a-rolling-twelve-month-basis-full-year-guidanc/",
+      "attached_report_url": "https://storage.mfn.se/24fa97ba-e467-4b73-a5bc-c0bb57e95970/report-interim-report-january-september-2026.pdf",
+      "observation_period": "2026 Q3",
+      "period_start": "2026-07-01",
+      "period_end": "2026-09-30",
+      "geography": "Worldwide Group operations and segments, not a country market size",
+      "population": "Corporate reporting; subscriber eligibility is company defined",
+      "recall_period": "Not applicable; financial reporting period",
+      "report_vintage": "2026-10-27 release",
+      "period_metrics": [
+        {
+          "metric": "Consolidated Group net sales",
+          "value": 1179.5,
+          "unit": "SEK million",
+          "scope": "IFRS Group, all formats and business areas",
+          "evidence_locator": "PDF p.26, Note 5, final Net sales row",
+          "prior_period": "2025 Q3",
+          "prior_period_value": 1013.4
+        },
+        {
+          "metric": "Streaming segment net sales",
+          "value": 1000.0,
+          "unit": "SEK million",
+          "scope": "Audiobook and ebook services; includes 100 percent of Norway, not consolidated Group receipts",
+          "evidence_locator": "PDF p.7 Streaming table and Norway footnote; p.26 Note 5",
+          "prior_period": "2025 Q3",
+          "prior_period_value": 922.6
+        },
+        {
+          "metric": "Publishing external net sales",
+          "value": 279.8,
+          "unit": "SEK million",
+          "scope": "External sales across Publishing formats; not audiobook only",
+          "evidence_locator": "PDF p.11 External net sales paragraph; p.27 Note 6 Publishing column",
+          "prior_period": "2025 Q3",
+          "prior_period_value": 181.8
+        },
+        {
+          "metric": "End of period paying subscribers",
+          "value": 2828000,
+          "unit": "subscribers, reported in thousands",
+          "scope": "Streaming brands collectively, not audiobook listeners or unique national residents",
+          "evidence_locator": "Press release Financial summary, End of period subscribers row; PDF p.1 summary and p.9 regional table",
+          "prior_period": "2025 Q3",
+          "prior_period_value": 2628000
+        },
+        {
+          "metric": "Streaming ARPU",
+          "value": 119.6,
+          "unit": "SEK per month",
+          "scope": "Period average, audiobook and ebook services combined",
+          "evidence_locator": "PDF p.8 Net sales and gross profit paragraph; p.34 ARPU definition",
+          "prior_period": "2025 Q3",
+          "prior_period_value": 118.1
+        }
+      ],
+      "notes": [
+        "Publishing segment total includes internal sales; use external sales separately.",
+        "Streaming includes ebook use and 100 percent Norway before Group eliminations. Comparatives in this report are restated.",
+        "Paying subscribers overlap Storytel, Mofibo and Audiobooks.com inventory rows. No audiobook only user or revenue total is supplied.",
+        "Keep quarterly metrics outside annual country industry and national adoption series."
+      ],
+      "validation_status": "Verified against the primary release and interim report text tables.",
+      "service_update": {
+        "service": "Storytel Books",
+        "status": "Company report states online physical bookstore launched after quarter end; exact launch day unverified",
+        "evidence_locator": "PDF p.2 CEO Statement, final paragraph beginning After the end of the quarter",
+        "source_url": "https://storage.mfn.se/24fa97ba-e467-4b73-a5bc-c0bb57e95970/report-interim-report-january-september-2026.pdf",
+        "retail_site_url_as_printed": "https://storytelbooks.com",
+        "decision": "Retain as qualitative service context. Retail operator, ownership structure, territorial eligibility and exact launch date not independently reviewed; no new company row or live country count."
+      }
+    },
+    {
+      "company_id": "bookbeat",
+      "publication_date": "2026-10-26",
+      "category": "Company interim growth and combined book service use",
+      "source_url": "https://www.mynewsdesk.com/bookbeat/pressreleases/bookbeat-grows-13-procent-strong-momentum-in-germany-and-growth-across-all-markets-3474230",
+      "observation_period": "January to September 2026 unless separately stated",
+      "period_start": "2026-01-01",
+      "period_end": "2026-09-30",
+      "geography": "BookBeat service across its reported ten markets; no country level measurements",
+      "population": "Company service users, definition details not disclosed; not a population survey",
+      "recall_period": "Financial YTD; cumulative usage is separately specified",
+      "report_vintage": "2026-10-26 company release",
+      "period_metrics": [
+        {
+          "metric": "Reported revenue growth year on year",
+          "value": 11,
+          "unit": "percent",
+          "evidence_locator": "Opening paragraph"
+        },
+        {
+          "metric": "Currency adjusted revenue growth year on year",
+          "value": 13,
+          "unit": "percent",
+          "evidence_locator": "Opening paragraph"
+        },
+        {
+          "metric": "Paying users",
+          "value": 1200000,
+          "operator": ">",
+          "unit": "users",
+          "observation_period": "Current at publication; exact reference date unpublished",
+          "evidence_locator": "Paragraph beginning BookBeats more than 1.2 million paying users"
+        },
+        {
+          "metric": "Cumulative combined listening and reading",
+          "value": 1500000000,
+          "unit": "hours",
+          "observation_period": "Since launch in 2015; milestone reached during 2026 Q3",
+          "evidence_locator": "Opening second paragraph; paragraph beginning BookBeats more than 1.2 million paying users"
+        }
+      ],
+      "forecast_excluded": {
+        "metric": "Full year 2026 revenue expectation",
+        "value": 1700,
+        "unit": "SEK million"
+      },
+      "notes": [
+        "Release was already available before the prior 26 October check; this is a newly reviewed baseline omission.",
+        "User and usage figures combine audiobooks and ebooks. No audiobook only split.",
+        "Subscriber base is a lower bound, not an exact count.",
+        "No actual YTD monetary revenue amount is disclosed; do not back calculate it.",
+        "The release body reports more than 1.2 million paying users while its undated profile says nearly 1.2 million. Retain the dated body wording as a company statement with no exact measurement date."
+      ],
+      "validation_status": "Primary company issued newsroom release reviewed."
+    }
+  ],
+  "other_release_reviews": [
+    {
+      "company_id": "amazon_books",
+      "publication_date": "2026-10-29",
+      "source_url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx",
+      "evidence_locator": "Supplemental Financial Information and Business Metrics, footnotes 1 and 5",
+      "decision": "New Group release reviewed. Online stores mix media and other goods; Subscription services mix Prime, video, audiobook, music, ebook and other subscriptions. No standalone book or Audible figures extracted."
+    },
+    {
+      "company_id": "spotify",
+      "publication_date": "2026-10-22",
+      "source_url": "https://newsroom.spotify.com/2026-10-22/spotify-q3-2026-earnings/",
+      "evidence_locator": "Opening results paragraph and audiobook expansion discussion",
+      "decision": "Predates review window. Platform subscribers and users are not audiobook only. More than 180 markets remains a year end rollout statement, not verified currently live market count."
+    },
+    {
+      "company_id": "nextory",
+      "reviewed_on": "2026-11-02",
+      "source_url": "https://www.konkurrensverket.se/diarium/sok-i-Konkurrensverkets-diarium/arendedata/?caseNumber=697%2F2026",
+      "evidence_locator": "Status and Beslutsdatum fields",
+      "case_number": "697/2026",
+      "case_status_original": "Pågående",
+      "decision_date": null,
+      "decision": "Pending ownership retained; no completion verified."
+    },
+    {
+      "company_id": "jentas_books",
+      "source_url": "https://bonnierbooks.com/media/",
+      "evidence_locator": "Media archive latest dated entry, 9 October 2026 Jentas agreement",
+      "decision": "No later formal completion source found in bounded review."
+    }
+  ],
+  "screenshot_limitation": "The web provider returned cache miss for report screenshots. Primary PDF text tables were inspected; source file hashes were not obtained through the blocked local network.",
+  "source_references_additions": {
+    "storytel_group": [
+      "https://www.storytelgroup.com/en/storytel-group-reports-accelerating-growth-the-largest-subscriber-increase-since-2023-and-continued-expansion-of-the-adjusted-ebitda-margin-on-a-rolling-twelve-month-basis-full-year-guidanc/",
+      "https://storage.mfn.se/24fa97ba-e467-4b73-a5bc-c0bb57e95970/report-interim-report-january-september-2026.pdf"
+    ],
+    "bookbeat": [
+      "https://www.mynewsdesk.com/bookbeat/pressreleases/bookbeat-grows-13-procent-strong-momentum-in-germany-and-growth-across-all-markets-3474230"
+    ]
+  }
+}
